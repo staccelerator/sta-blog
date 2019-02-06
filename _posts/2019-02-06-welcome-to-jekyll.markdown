@@ -4,13 +4,13 @@ title: 'STA '
 date: '2019-02-06 15:57:17 +0300'
 categories: jekyll update
 published: true
+image: assets/images/sta.png
+author: masha
 ---
 ## Hello this is test from Masha
 
 
 **Welcome to Security Token Club**
-![photo_2018-11-27_09-57-08.jpg]({{site.baseurl}}/assets/images/photo_2018-11-27_09-57-08.jpg)
-
 
 ![sta.png]({{site.baseurl}}/assets/images/sta.png)
 
