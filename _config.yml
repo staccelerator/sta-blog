@@ -1,7 +1,7 @@
 # Site
 name: "Security Token Accelerator Blog"
-description: "Security Token Accelerator Blog"
-meta_description: "Security Token Accelerator Blog"
+description: "by Evercity LLC"
+meta_description: "Security Token Accelerator Blog by Evercity LLC"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /sta-blog
