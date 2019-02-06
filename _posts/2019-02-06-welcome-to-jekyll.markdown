@@ -9,9 +9,8 @@ published: true
 
 
 **Welcome to Security Token Club**
+![photo_2018-11-27_09-57-08.jpg]({{site.baseurl}}/assets/images/photo_2018-11-27_09-57-08.jpg)
 
-
-![eto ya](https://imgur.com/a/XWc8ufS)
 
 ![sta.png]({{site.baseurl}}/assets/images/sta.png)
 
