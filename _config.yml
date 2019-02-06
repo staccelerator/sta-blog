@@ -11,14 +11,14 @@ mailchimp-list: ''
 
 # Authors
 authors:
-  xenia:
-    name: Xenia
-    display_name: Xenia
-    gravatar: 
-    email: 
+  masha:
+    name: Masha
+    display_name: Masha V
+    gravatar: ad07dd6a22805444c06f9f978d4b1172
+    email: mvyazem@evercity.io
     web: 
     twitter: 
-    description: "Author of STA Blog"
+    description: "Major Author of the STA Blog"
   
 # Plugins
 plugins: 
