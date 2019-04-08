@@ -2,317 +2,287 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Security Token Accelerator Blog</description>
+    <description>by Evercity LLC</description>
     <link>http://localhost:4000/sta-blog/</link>
     <atom:link href="http://localhost:4000/sta-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Feb 2019 17:57:54 +0300</pubDate>
-    <lastBuildDate>Wed, 06 Feb 2019 17:57:54 +0300</lastBuildDate>
+    <pubDate>Mon, 08 Apr 2019 19:29:45 +0300</pubDate>
+    <lastBuildDate>Mon, 08 Apr 2019 19:29:45 +0300</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>STA </title>
-        <description>&lt;h2 id=&quot;hello-this-is-test-from-masha&quot;&gt;Hello this is test from Masha&lt;/h2&gt;
+        <title>STO Weekly Review by Evercity 01–7.04.2019</title>
+        <description>&lt;h3 id=&quot;sto-weekly-review-by-evercity-17042019&quot;&gt;&lt;strong&gt;STO Weekly Review by Evercity 1–7.04.2019&lt;/strong&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;strong&gt;Welcome to Security Token Club&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&quot;projects&quot;&gt;Projects&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/sta-blog/assets/images/sta.png&quot; alt=&quot;sta.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;🤝Tokeny has &lt;a href=&quot;https://thetokenist.io/tokeny-and-global-law-firm-dla-piper-form-digital-securities-alliance-to-ensure-regulatory-compliance/&quot;&gt;partnered&lt;/a&gt; with global law firm DLA Piper to form the Digital Securities Alliance (DSA). As a compliance-focused organization, DSA will look to bridge the gap between tokenized securities and securities regulations in jurisdictions throughout the world.&lt;/p&gt;
 
-&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;⚙️Miami International Holdings and Templum &lt;a href=&quot;https://www.prnewswire.com/news-releases/miami-international-holdings-and-templum-enter-into-strategic-partnership-to-list-and-trade-digital-securities-on-a-miax-exchange-300824848.html&quot;&gt;entered&lt;/a&gt; into strategic partnership to list and trade digital securities on a fully regulated MIAX Exchange, which is to be developed. The joint venture will be SEC-registered and operated as a facility of an exchange owned by MIH and subject to SEC approval.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h4 id=&quot;regulation&quot;&gt;Regulation&lt;/h4&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;🇺🇸United States Securities and Exchanges Commission FinHub has [published] (https://www.sec.gov/news/public-statement/statement-framework-investment-contract-analysis-digital-assets?hootPostID=7604b0fbb8f5d3e5ac775448e860b4e2)a framework to help market participants ascertain whether or not a digital asset is deemed to be an investment contract, and therefore a security, accompanied by official statement.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;🙅🏻‍♂️At the same time, SEC &lt;a href=&quot;https://www.crowdfundinsider.com/2019/04/146005-sec-issues-first-no-action-letter-regarding-tokenization-of-digital-asset-by-turnkey-jet-that-is-not-a-security/&quot;&gt;issued&lt;/a&gt; first no action letter regarding tokenization of digital asset by TurnKey Jet that is NOT a security.&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;🖌EU &lt;a href=&quot;https://venturebeat.com/2019/04/03/eu-launches-blockchain-association-to-accelerate-distributed-ledger-technology-adoption/&quot;&gt;launched&lt;/a&gt; blockchain association to accelerate distributed ledger technology adoption. Its 105 founding members, including Ripple Labs, Consensys AG, and Bitfury, will support the development of interoperability of global standards as well as a transparent and inclusive model of governance.&lt;/p&gt;
 
+&lt;p&gt;Join Security Token Club: &lt;a href=&quot;https://t.me/stoaccelerator&quot;&gt;https://t.me/stoaccelerator&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 06 Feb 2019 15:57:17 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/update/2019/02/06/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/update/2019/02/06/welcome-to-jekyll.html</guid>
+        <pubDate>Mon, 08 Apr 2019 17:47:25 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/04/08/sto-weekly-review-by-evercity-017.04.2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/04/08/sto-weekly-review-by-evercity-017.04.2019.html</guid>
         
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
         
       </item>
     
       <item>
-        <title>Powerful things you can do with the Markdown editor</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+        <title>Итоги недели от Security Token Клуба 25–31.03.03.2019</title>
+        <description>&lt;h4 id=&quot;проекты&quot;&gt;Проекты&lt;/h4&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt;🇩🇪Штуттгартская фондовая биржа, вторая крупнейшая биржа Германии, &lt;a href=&quot;https://www.ethnews.com/amp/german-stock-exchange-boerse-stuttgart-to-develop-blockchain-powered-trading-platform&quot;&gt;объявила&lt;/a&gt; о планах сотрудничества с крупным цифровым издателем Axel Springer и с популярным новостным сайтом &lt;a href=&quot;http://finanzen.net&quot;&gt;finanzen.net&lt;/a&gt; для создания торговой площадки на основе технологии блокчейн.&lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;🇷🇺 «Норильский Никель» во главе с Владимиром Потаниным &lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-03-27/russian-tycoon-potanin-plans-crypto-tokens-backed-by-palladium?utm_source=securitytoken-it-newsletter&quot;&gt;планируют запуск&lt;/a&gt; ряда цифровых платформ, в том числе платформы для токенизации сырьевых товаров. Будучи ведущим производителем палладиума, Потанин ведет переговоры со швейцарским регулятором для токенизации металла на базе фонда в Швейцарии.&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;💸Социальная трейдинг/инвестиционная платформа eToro &lt;a href=&quot;https://techcrunch.com/2019/03/25/social-investment-platform-etoro-acquires-smart-contract-startup-firmo/?utm_source=securitytoken-it-newsletter&quot;&gt;купила&lt;/a&gt; Firmo Network — блокчейн протокол для деривативов. Задачей команды Firmo станет токенизация всех активов на eToro.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h4 id=&quot;регулирование&quot;&gt;Регулирование&lt;/h4&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;🇭🇰Комиссия по ценным бумагам и фьючерсам Гонконга &lt;a href=&quot;https://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-security-token-offerings.html?fbclid=IwAR0Zb0Vw5HJR5rmMkXWgKcCy-5sVe1pn4SRTndjMRaGO-5e2Jyujxj51JBo&quot;&gt;выпустила новое заявление&lt;/a&gt;: «Любой, кто продвигает и распространяет security токены (в Гонконге или с ориентиром на инвесторов из Гонконга) должен быть лицензирован или зарегистрирован под регулируемую активность Типа 1 (операции с ценными бумагами) согласно Securities and Futures Ordinance. Участие в регулируемых активностях без лицензии (если не применяется исключение), является уголовным преступлением».&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/sta-blog/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Присоединяйтесь к Security Token Клубу: &lt;a href=&quot;https://t.me/stoclub&quot;&gt;https://t.me/stoclub&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/powerful-things-markdown-editor.html</guid>
+        <pubDate>Mon, 01 Apr 2019 15:06:22 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/04/01/%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8-%D0%BE%D1%82-security-token-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0-2531.03.03.2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/04/01/%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8-%D0%BE%D1%82-security-token-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0-2531.03.03.2019.html</guid>
         
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
         
       </item>
     
       <item>
-        <title>The first mass-produced book to deviate from a rectilinear format</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+        <title>STO Weekly Review by Evercity 25–31.03.2019</title>
+        <description>&lt;h3 id=&quot;sto-weekly-review-by-evercity-2531032019&quot;&gt;&lt;strong&gt;STO Weekly Review by Evercity 25–31.03.2019&lt;/strong&gt;&lt;/h3&gt;
 
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+&lt;h4 id=&quot;projects&quot;&gt;Projects&lt;/h4&gt;
 
+&lt;p&gt;🇩🇪Börse Stuttgart, Germany’s second-largest stock exchange, &lt;a href=&quot;https://www.ethnews.com/amp/german-stock-exchange-boerse-stuttgart-to-develop-blockchain-powered-trading-platform&quot;&gt;plans to collaborate&lt;/a&gt; with digital publisher Axel Springer and finanzen.net, the country’s popular online financial news site, to develop a trading platform powered by blockchain technology.&lt;/p&gt;
+
+&lt;p&gt;🇷🇺MMC Norilsk Nickel PJSC and its billionaire chief &lt;a href=&quot;https://www.bloomberg.com/billionaires/id/1642676&quot;&gt;Vladimir Potanin&lt;/a&gt; &lt;a href=&quot;https://www.bloomberg.com/news/articles/2019-03-27/russian-tycoon-potanin-plans-crypto-tokens-backed-by-palladium?utm_source=securitytoken-it-newsletter&quot;&gt;are planning to launch several digital platforms&lt;/a&gt;, including a platform for commodities tokenization The world’s top palladium producer is in talks with Swiss authorities about issuing tokens by its Switzerland-based palladium &lt;a href=&quot;https://www.bloomberg.com/news/terminal/PNJ2DI6TTDS3&quot;&gt;fund&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;💸Social trading/investment platform eToro has bought Firmo Network, a protocol for smart contracts for derivatives, &lt;a href=&quot;https://techcrunch.com/2019/03/25/social-investment-platform-etoro-acquires-smart-contract-startup-firmo/?utm_source=securitytoken-it-newsletter&quot;&gt;for an undisclosed amount&lt;/a&gt;. &lt;em&gt;**&lt;/em&gt; The goal of the Firmo team will be to tokenize all assets on eToro.&lt;/p&gt;
+
+&lt;h4 id=&quot;regulation&quot;&gt;Regulation&lt;/h4&gt;
+
+&lt;p&gt;🇭🇰&lt;a href=&quot;https://www.sfc.hk/web/EN/news-and-announcements/policy-statements-and-announcements/statement-on-security-token-offerings.html?fbclid=IwAR0Zb0Vw5HJR5rmMkXWgKcCy-5sVe1pn4SRTndjMRaGO-5e2Jyujxj51JBo&quot;&gt;New statement&lt;/a&gt; by HK Security and Futures Commission: “Person who markets and distributes Security Tokens (whether in Hong Kong or targeting Hong Kong investors) is required to be licensed or registered for Type 1 regulated activity (dealing in securities) under the Securities and Futures Ordinance. It is a criminal offence for any person to engage in regulated activities without a licence unless an exemption applies.”&lt;/p&gt;
+
+&lt;p&gt;Join Security Token Club: &lt;a href=&quot;https://t.me/stoaccelerator&quot;&gt;https://t.me/stoaccelerator&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Apr 2019 13:55:09 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/04/01/sto-weekly-review-by-evercity-2531.03.2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/04/01/sto-weekly-review-by-evercity-2531.03.2019.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Итоги недели от Security Token Клуба 18–24.03.03.2019</title>
+        <description>&lt;h4 id=&quot;главные-новости&quot;&gt;Главные новости&lt;/h4&gt;
+
+&lt;p&gt;🏦IBM &lt;a href=&quot;https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency?utm_source=securitytoken-it-newsletter&quot;&gt;решила подружить&lt;/a&gt; банки и криптовалюты: шесть банков-клиентов корпорации подписали письма о намерениях о выпуске стейбл коинов или fiat-backed токенов на WorldWire, платежной сети IBM, которая использует публичный блокчейн Stellar. Задача сети — предоставить регулируемым институтам возможность осуществлять кросс-граничные денежные переводы и обмен валют быстрее и дешевле, чем в традиционной банковской системе.&lt;/p&gt;
+
+&lt;h4 id=&quot;проекты&quot;&gt;Проекты&lt;/h4&gt;
+
+&lt;p&gt;🇬🇧Платформа для выпуска security токенов Smartlands &lt;a href=&quot;https://smartlands.io/news/smartlands-acquires-shojin-financial-services-limited-first-sto-underway/?utm_source=securitytoken-it-newsletter&quot;&gt;объявила&lt;/a&gt; о приобретении крупной доли в Shojin Financial Services Limited (SFS) — Лондонской компании, которая в 2017 получила инвестиционную лицензию от Британского регулятора (FCA), позволяющую SFS привлекать инвестиции в проекты посредством краудфандинга.&lt;/p&gt;
+
+&lt;p&gt;🤝Polymath &lt;a href=&quot;https://www.coindesk.com/polymath-seriesone-team-up-to-simplify-security-token-issuance&quot;&gt;объединили усилия&lt;/a&gt; с фандрейзинг платформой seriesOne, чтобы предоставлять клиентом решение «полного цикла» для выпуска security токенов. В ноябре прошлого года seriesOne заключили партнерство с южнокорейской биржей Bithumb для запуска регулируемой биржи security токенов в США.&lt;/p&gt;
+
+&lt;h4 id=&quot;регулирование&quot;&gt;Регулирование&lt;/h4&gt;
+
+&lt;p&gt;📃Американская ассоциация юристов [опубликовала] (https://www.americanbar.org/content/dam/aba/administrative/business_law/buslaw/committees/CL620000pub/digital_assets.pdf)внушительный 353-страничный отчет по регулированию цифровых активов и криптовалют.&lt;/p&gt;
+
+&lt;p&gt;Присоединяйтесь к Security Token Клубу: &lt;a href=&quot;https://t.me/stoclub&quot;&gt;https://t.me/stoclub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Mar 2019 23:13:44 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/03/26/%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8-%D0%BE%D1%82-security-token-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0-1824.03.03.2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/03/26/%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8-%D0%BE%D1%82-security-token-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0-1824.03.03.2019.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>STO Weekly Review by Evercity 18–24.03.2019</title>
+        <description>&lt;h3 id=&quot;sto-weekly-review-by-evercity-1824032019&quot;&gt;&lt;strong&gt;STO Weekly Review by Evercity 18–24.03.2019&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;main-news&quot;&gt;Main news&lt;/h4&gt;
+
+&lt;p&gt;🏦IBM is taking its banking clients a step closer to cryptocurrency. Announced Monday, &lt;a href=&quot;https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency?utm_source=securitytoken-it-newsletter&quot;&gt;six international banks have signed letters of intent&lt;/a&gt; to issue stablecoins, or tokens backed by fiat currency, on World Wire, an IBM payment network that uses the Stellar public blockchain. The network promises to let regulated institutions move value across borders — remittances or foreign exchange — more quickly and cheaply than the legacy correspondent banking system.&lt;/p&gt;
+
+&lt;p&gt;🇬🇧Smartlands, an aspiring global platform for security token issuance, &lt;a href=&quot;https://smartlands.io/news/smartlands-acquires-shojin-financial-services-limited-first-sto-underway/?utm_source=securitytoken-it-newsletter&quot;&gt;announced the acquisition&lt;/a&gt; of a major stake in Shojin Financial Services Limited (SFS) — a London-based company that in 2017 &lt;a href=&quot;https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000001HiW5sAAF&quot;&gt;received an investment license&lt;/a&gt; from the British Financial Conduct Authority (FCA) allowing SFS to raise capital globally via crowdfunding.&lt;/p&gt;
+
+&lt;h4 id=&quot;projects&quot;&gt;Projects&lt;/h4&gt;
+
+&lt;p&gt;🤝Security token platform Polymath [has partnered] (https://www.coindesk.com/polymath-seriesone-team-up-to-simplify-security-token-issuance)with digital securities fundraising platform seriesOne to offer an “end-to-end” solution for security token issuance. Back in November, seriesOne &lt;a href=&quot;https://www.coindesk.com/bithumb-seriesone-to-launch-security-token-exchange-in-the-us&quot;&gt;partnered&lt;/a&gt; with South Korean crypto exchange Bithumb to launch a compliant security token exchange in the U.S.&lt;/p&gt;
+
+&lt;p&gt;🤝Leading community engagement firm AmaZix &lt;a href=&quot;https://medium.com/amazix/amazix-seals-partnership-with-securitize-for-facilitation-of-digital-securities-services-25cb2e8fecd4&quot;&gt;announced its latest partnership with Securitize&lt;/a&gt;, a compliance platform for the primary issuance and lifecycle management of digital securities on the blockchain.&lt;/p&gt;
+
+&lt;h4 id=&quot;regulation&quot;&gt;Regulation&lt;/h4&gt;
+
+&lt;p&gt;📃American Bar Association &lt;a href=&quot;https://www.americanbar.org/content/dam/aba/administrative/business_law/buslaw/committees/CL620000pub/digital_assets.pdf&quot;&gt;released a major report&lt;/a&gt; on digital assets and cryptocurrency regulation. The 353-page document titled “Digital and Digitized Assets: Federal and State Jurisdictional Issues” provides definitions relevant to digital currency, domestic regulatory issues, and what international bodies and other countries are doing when confronted by the new technology.&lt;/p&gt;
+
+&lt;p&gt;Join Security Token Club: &lt;a href=&quot;https://t.me/stoaccelerator&quot;&gt;https://t.me/stoaccelerator&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Mar 2019 18:11:35 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/03/26/sto-weekly-review-by-evercity-1824.03.2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/03/26/sto-weekly-review-by-evercity-1824.03.2019.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Запуск Evercity Lab — кастом-студии блокчейн разработки</title>
+        <description>&lt;h3 id=&quot;запуск-evercity-labкастом-студии-блокчейн-разработки&quot;&gt;&lt;strong&gt;Запуск Evercity Lab — кастом-студии блокчейн разработки&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;Глобальные лидеры индустрии уже начали переход к блокчейн инфраструктуре для повышения эффективности и расширения линейки услуг для своих клиентов. &lt;strong&gt;Evercity Lab&lt;/strong&gt; предоставляет ряд услуг по разработке “под ключ” и внедрению готовых платформенных решений, помогая бизнесам снизить финансовые и временные издержки для выхода на рынок.&lt;/p&gt;
+
+&lt;p&gt;Наша команда состоит из 20+ блокчейн, UX/UI и full-stack разработчиков и ряда специалистов с уникальной финтех и юридической экспертизой. &lt;em&gt;Среди ведущих членов команды профессионалов менеджмент уровня из Polkadot, Parity и Simex.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Спектр услуг Evercity Lab включает себя разработку и аудит смарт контрактов, разработку платформ, мобильных/web приложений с интеграцией блокчейна, проведение Security Token Offering (STO) и многое другое.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Цель Evercity Lab — помочь вам двигаться на передовой технологических инноваций и обеспечить конкурентное преимущество.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Мы приглашаем компании на &lt;strong&gt;бесплатную консультацию&lt;/strong&gt; по внедрению технологии блокчейн для оптимизации бизнес процессов.&lt;/p&gt;
+
+&lt;p&gt;Подать заявку: &lt;a href=&quot;mailto:lab@evercity.io&quot;&gt;lab@evercity.io&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/a/evercity.io/file/d/1ErB7pavDjtgXbtpNSJfRrfsUdLxiN3m5/view?usp=sharing&quot;&gt;Скачать презентацию&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Mar 2019 12:04:37 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/03/20/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-evercity-lab%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D1%81%D1%82%D1%83%D0%B4%D0%B8%D0%B8-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/03/20/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-evercity-lab%D0%BA%D0%B0%D1%81%D1%82%D0%BE%D0%BC%D1%81%D1%82%D1%83%D0%B4%D0%B8%D0%B8-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Итоги недели от Security Token Клуба 11–17.03.03.2019</title>
+        <description>&lt;p&gt;&lt;strong&gt;Главные новости&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;🤝Deutsche Börse, Swisscom и Sygnum &lt;a href=&quot;https://www.deutsche-boerse.com/dbg-en/media/press-releases/Deutsche-B-rse-Swisscom-and-Sygnum-enter-into-strategic-partnership-to-build-a-trusted-digital-asset-ecosystem-1507212&quot;&gt;заключили партнерство&lt;/a&gt; для «создания экосистемы цифровых активов». В рамках соглашения участники партнерства станут акционерами токенизационной платформы Daura.&lt;/p&gt;
+
+&lt;p&gt;🚦Эстонский DX.Exchange &lt;a href=&quot;https://www.coindesk.com/crypto-platform-dx-exchange-adds-secondary-trading-of-security-tokens&quot;&gt;запустил биржу&lt;/a&gt; для вторичной торговли секьюрити токенами. На текущий момент платформа доступна 8000 зарегистрированным пользователям, полноценный запуск запланирован на апрель.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Проекты&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;🏹Уже некоторое время ConsenSys активно работает над Dauriel Network — white label платформой, которой корпорации, биржи и депозитарии могут пользоваться для выпуска и управления токенизированными финансовыми активами. Ранее команда сообщала, что платформа оказалась особенно востребованной на французском рынке. &lt;a href=&quot;https://www.youtube.com/watch?v=F7cAdPSXyqs&quot;&gt;Демо можно посмотреть здесь&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;⚙️ICON &lt;a href=&quot;https://medium.com/helloiconworld/icon-adds-a-token-specification-to-support-the-development-of-tokenized-securities-58b773607c13&quot;&gt;анонсировал&lt;/a&gt; свой стандарт токена IRC16 для облегчения процесса создания ценных бумаг на блокчейне и выпуска токенизированных активов.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Regulation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;🇺🇸Председатель SEC Джей Клейтон &lt;a href=&quot;https://www.coindesk.com/jay-clayton-coin-center-letter&quot;&gt;заявил&lt;/a&gt;, что Ethereum не представляет собой инвестиционный контракт согласно фреймворку Хоуи&lt;/p&gt;
+
+&lt;p&gt;🇩🇪Министерство финансов Германии &lt;a href=&quot;https://www.coindesk.com/german-finance-ministry-calls-for-regulated-blockchain-securities-market?utm_source=securitytoken-it-newsletter&quot;&gt;опубликовало&lt;/a&gt; документ с рекомендацией правительству признать ценные бумаги на блокчейне полностью легитимным финансовым инструментом.&lt;/p&gt;
+
+&lt;p&gt;Присоединяйтесь к Security Token Клубу: &lt;a href=&quot;https://t.me/stoclub&quot;&gt;https://t.me/stoclub&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 20 Mar 2019 11:38:04 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/03/20/%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8-%D0%BE%D1%82-security-token-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0-1117.03.03.2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/03/20/%D0%B8%D1%82%D0%BE%D0%B3%D0%B8-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D0%B8-%D0%BE%D1%82-security-token-%D0%BA%D0%BB%D1%83%D0%B1%D0%B0-1117.03.03.2019.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>STO Weekly Review by Evercity 11–17.03.2019</title>
+        <description>&lt;h3 id=&quot;sto-weekly-review-by-evercity-1117032019&quot;&gt;&lt;strong&gt;STO Weekly Review by Evercity 11–17.03.2019&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Main news&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;🤝Deutsche Börse, Swisscom and Sygnum [entered into strategic partnership] (https://www.deutsche-boerse.com/dbg-en/media/press-releases/Deutsche-B-rse-Swisscom-and-Sygnum-enter-into-strategic-partnership-to-build-a-trusted-digital-asset-ecosystem-1507212)to build a trusted digital asset ecosystem. They will become shareholders in Daura tokenization platform.&lt;/p&gt;
+
+&lt;p&gt;🚦DX.Exchange, an Estonia-based platform has opened its market to &lt;a href=&quot;https://www.coindesk.com/crypto-platform-dx-exchange-adds-secondary-trading-of-security-tokens&quot;&gt;secondary trading of security tokens&lt;/a&gt;. The exchange now allows companies to list their security tokens previously issued on other platforms. Currently, the platform is functioning in a closed regime for some 8,000 pre-registered users.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Projects&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;🏹With few announcements made, ConsenSys has been developing the Dauriel Network — a white label platform, that corporates, exchanges and custodians can use to issue and manage tokenized financial assets. As the team previously stated, the platform was found to be especially relevant on French market. &lt;a href=&quot;https://www.youtube.com/watch?v=F7cAdPSXyqs&quot;&gt;Platform demo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;⚙️ICON &lt;a href=&quot;https://medium.com/helloiconworld/icon-adds-a-token-specification-to-support-the-development-of-tokenized-securities-58b773607c13&quot;&gt;has announced&lt;/a&gt; its token standard, IRC16 to simplify the process of creating blockchain-based securities and tokenized assets&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Regulation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;🇺🇸The U.S. Securities and Exchange Commission’s chairman Clayton &lt;a href=&quot;https://www.coindesk.com/jay-clayton-coin-center-letter?utm_source=twitter&amp;amp;utm_medium=coindesk&amp;amp;utm_term=&amp;amp;utm_content=&amp;amp;utm_campaign=Organic%20&quot;&gt;has stated&lt;/a&gt; that Ethereum «may not represent an investment contract under the Howey framework».&lt;/p&gt;
+
+&lt;p&gt;🇩🇪The German Ministry of Finance &lt;a href=&quot;https://www.coindesk.com/german-finance-ministry-calls-for-regulated-blockchain-securities-market?utm_source=securitytoken-it-newsletter&quot;&gt;has recommended&lt;/a&gt; that the country recognizes blockchain-based securities as a legitimate form of financial instrument and regulate them as such.&lt;/p&gt;
+
+&lt;p&gt;Join Security Token Club: &lt;a href=&quot;https://t.me/stoaccelerator&quot;&gt;https://t.me/stoaccelerator&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 17:18:31 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/03/18/sto-weekly-review-by-evercity-1117.03.2019.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/03/18/sto-weekly-review-by-evercity-1117.03.2019.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Announcing the launch of Evercity Lab — custom blockchain development studio</title>
+        <description>&lt;p&gt;&lt;strong&gt;Global industry leaders have already started the transfer to blockchain infrastructure in order to increase efficiency and widen outreach by providing new products to their customers. Evercity Lab is designed to provide a variety of custom blockchain development services and white label platform solution to assist businesses in blockchain adoption, minimizing their costs and time to market, as well as raising transparency.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Our team consists of 20+ blockchain, UX/UI, full-stack developers and other specialists with profound market knowledge, offering a unique combination of blockchain development, fintech and legal expertise. &lt;em&gt;Our leading team members include management level professionals of Polkadot, Parity and Simex.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The range of Evercity Lab services include smart contracts development &amp;amp; audit, blockchain development, mobile/web apps with blockchain integration, conducting Security Token Offerings (STO), and much more.&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;https://drive.google.com/a/evercity.io/file/d/1ErB7pavDjtgXbtpNSJfRrfsUdLxiN3m5/view?usp=sharing&quot;&gt;Download full presentation&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The goal of Evercity Lab to help you stay at the forefront of the technological trend and gain an advantage over competitors.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+&lt;p&gt;We welcome businesses to apply for &lt;strong&gt;free&lt;/strong&gt; &lt;strong&gt;blockchain consulting service&lt;/strong&gt; to receive expert advice on blockchain implementation that will help to optimize your current processes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Submit application:&lt;/strong&gt; &lt;a href=&quot;mailto:lab@evercity.io&quot;&gt;&lt;strong&gt;lab@evercity.io&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/first-mass-produced.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/first-mass-produced.html</guid>
+        <pubDate>Mon, 18 Mar 2019 13:17:10 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/03/18/announcing-the-launch-of-evercity-labcustom-blockchain-development-studio.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/03/18/announcing-the-launch-of-evercity-labcustom-blockchain-development-studio.html</guid>
         
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
         
       </item>
     
       <item>
-        <title>Education must also train one for quick, resolute and effective thinking.</title>
-        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
+        <title>В Москве пройдёт Smart Sustainable City хакатон с фокусом на блокчейн и AI</title>
+        <description>&lt;p&gt;&lt;em&gt;Как обеспечить прозрачность в цепочке поставок лекарств, медикаментов или продуктов питания при помощи технологии блокчейн? Как искусственный интеллект может применяться для оптимизации транспортных сетей или системы обращения отходов в крупном ритейле? Как повысить энергоэффективность с помощью IoT? Какие цифровые технологии могут улучшить экологическую обстановку в городе?&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;p&gt;Экосистема Evercity рада анонсировать Smart Sustainable City хакатон — первый в России блокчейн, AI и IoT хакатон для умных устойчивых городов. В прошлом году Evercity успешно провели первый российский Energy Blockchain хакатон в рамках международной инициативы Climathon. Партнерами и спонсорами мероприятия выступили Hevel Solar, Schneider Electric, EDF, ПАО “Россети”, НП “Совет рынка” и другие лидеры рынка.&lt;/p&gt;
 
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+&lt;p&gt;Хакатон призван стать импульсом для цифровой трансформации и направлен на поиск новых инновационных решений для умных устойчивых городов, основанных на активном применении технологий блокчейн, IoT и AI. Разработчики будут создавать решения в пяти треках: &lt;strong&gt;здравоохранение, энергетика, ритейл, транспорт, индустрия 4.0.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+&lt;p&gt;Хакатон пройдет 19–21 апреля в коворкинге “Точка кипения” в Москве при участии более 200 разработчиков, экологов, предпринимателей, дизайнеров и специалистов в области умных устойчивых городов с самыми разнообразными навыками и экспертизой.&lt;/p&gt;
 
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+&lt;p&gt;Хакатон будет состоять из трёх частей: вводный мастер-класс, онлайн (заочный) этап и оффлайн (очный) этап, для обеспечения максимальной осведомленности участников и качества решений.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.facebook.com/evercityeco/&quot;&gt;&lt;strong&gt;Следите за обновлениями на странице Evercity в Facebook&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;По вопросам партнерства / спонсорства:&lt;/strong&gt; anita@russiancarbon.org&lt;/p&gt;
 
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+&lt;h4&gt;—&lt;/h4&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h4 id=&quot;об-организаторах&quot;&gt;Об организаторах&lt;/h4&gt;
 
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Evercity — экосистема умных устойчивых городов&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/sta-blog/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Evercity тщательно отбирает лучшие проекты в сферах блокчейн, интернет вещей, искусственный интеллект, biotech, cleantech, которые способствуют достижению целей устойчивого развития ООН. Мы помогаем проектам привлекать инвестиции и находить применение в умных городах по всему миру.&lt;/p&gt;
 
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+&lt;p&gt;Evercity развивает стратегическое партнерство с международными организациями, государственными органами, инвесторами, а также ведущими исследовательскими центрами в целях постро- ения глобальной экосистемы умных устойчивых городов&lt;/p&gt;
 
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Фонд Русский углерод&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+&lt;p&gt;Фонд является некоммерческой организацией, которая с 2011 года продвигает повестку устойчивого развития в России. Фонд имеет опыт сотрудничества с Оргкомитетом Олимпиады Сочи-2014 и Чемпионата мира FIFA-2018, а также крупными компаниями, такими как Газпром нефть, Unilever, PepsiCo, UPM и пр.&lt;/p&gt;
 
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Флагманский проект Фонда — платформа для зеленых финансов DAO IPCI, на которой была совершена первая в мире сделка по передаче углеродных единиц на блокчейне. Проект был презентован на многих международных площадках, в том числе на климатической конференции ООН COP24.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/education.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/education.html</guid>
+        <pubDate>Wed, 13 Mar 2019 14:08:17 +0300</pubDate>
+        <link>http://localhost:4000/sta-blog/2019/03/13/%D0%B2-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D1%91%D1%82-smart-sustainable-city-%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD-%D1%81-%D1%84%D0%BE%D0%BA%D1%83%D1%81%D0%BE%D0%BC-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD-%D0%B8-ai.html</link>
+        <guid isPermaLink="true">http://localhost:4000/sta-blog/2019/03/13/%D0%B2-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%BF%D1%80%D0%BE%D0%B9%D0%B4%D1%91%D1%82-smart-sustainable-city-%D1%85%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD-%D1%81-%D1%84%D0%BE%D0%BA%D1%83%D1%81%D0%BE%D0%BC-%D0%BD%D0%B0-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD-%D0%B8-ai.html</guid>
         
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Accumulated experience of social living</title>
-        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        <pubDate>Tue, 12 Jun 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/acumulated-experience.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/06/12/acumulated-experience.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>About Bundler</title>
-        <description>&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
-
-&lt;p&gt;For more information about how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;
-</description>
-        <pubDate>Sat, 12 May 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/2018/05/12/about-bundler.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/2018/05/12/about-bundler.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-      </item>
-    
-      <item>
-        <title>We all wait for summer</title>
-        <description>&lt;p&gt;As I engage in the so-called “bull sessions” around and about the school, I too often find that most college men have a misconception of the purpose of education. Most of the “brethren” think that education should equip them with the proper instruments of exploitation so that they can forever trample over the masses. Still others think that education should furnish them with noble ends rather than means to an end.&lt;/p&gt;
-
-&lt;p&gt;It seems to me that education has a two-fold function to perform in the life of man and in society: the one is utility and the other is culture. Education must enable a man to become more efficient, to achieve with increasing facility the ligitimate goals of his life.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/we-all-wait-for-summer.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Tree of Codes</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/tree-of-codes.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/tree-of-codes.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Red Riding Hood</title>
-        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/red-riding.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/red-riding.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
-        
-      </item>
-    
-      <item>
-        <title>Press and education</title>
-        <description>&lt;p&gt;Even the press, the classroom, the platform, and the pulpit in many instances do not give us objective and unbiased truths. To save man from the morass of propaganda, in my opinion, is one of the chief aims of education. Education must enable one to sift and weigh evidence, to discern the true from the false, the real from the unreal, and the facts from the fiction.&lt;/p&gt;
-
-&lt;p&gt;Education must also train one for quick, &lt;strong&gt;resolute and effective thinking&lt;/strong&gt;. To think incisively and to think for one’s self is very difficult.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;We are prone to let our mental life become invaded by legions of half truths, prejudices, and propaganda. At this point, I often wonder whether or not education is fulfilling its purpose. A great majority of the so-called educated people do not think logically and scientifically.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The function of education, therefore, is to teach one to think intensively and to think critically. But education which stops with efficiency may prove the greatest menace to society. The most dangerous criminal may be the man gifted with reason, but with no morals.&lt;/p&gt;
-
-&lt;p&gt;The late Eugene Talmadge, in my opinion, possessed one of the better minds of Georgia, or even America. Moreover, he wore the Phi Beta Kappa key. By all measuring rods, Mr. Talmadge could think critically and intensively; yet he contends that I am an inferior being. Are those the types of men we call educated?&lt;/p&gt;
-
-&lt;p&gt;We must remember that intelligence is not enough. Intelligence plus character–that is the goal of true education. The complete education gives one not only power of concentration, but worthy objectives upon which to concentrate. The broad education will, therefore, transmit to one not only the accumulated knowledge of the race but also the accumulated experience of social living.&lt;/p&gt;
-
-</description>
-        <pubDate>Fri, 12 Jan 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/press-and-education.html</link>
-        <guid isPermaLink="true">http://localhost:4000/sta-blog/jekyll/tutorial/2018/01/12/press-and-education.html</guid>
-        
-        
-        <category>Jekyll</category>
-        
-        <category>tutorial</category>
         
       </item>
     
