@@ -5,6 +5,7 @@ author: "Evercity"
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/1*1vjhD_mMdgh9o9snTdH5RQ.png
+categories: [ Articles,  STO Weekly Reviews ]
 ---
 
 **Проекты**

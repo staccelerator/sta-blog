@@ -4,6 +4,7 @@ date: 2018-10-18T08:51:01.943Z
 author: "Evercity"
 layout: post
 published: true
+featured: true
 image: https://cdn-images-1.medium.com/max/1200/0*8TIeeT_ZL4h44gMK
 ---
 

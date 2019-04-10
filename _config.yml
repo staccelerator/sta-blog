@@ -8,6 +8,7 @@ baseurl: /sta-blog
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
+main_url: https://staccelerator.com
 
 # Authors
 authors:
