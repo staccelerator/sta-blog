@@ -1,7 +1,7 @@
 ---
 title: "Security tokens: long awaited VC markets evolution or yet another buzzword?"
 date: 2019-02-07T17:35:42.905Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/1*1FnNSBGmWu6q1wGsXMZ77g.png

@@ -1,7 +1,7 @@
 ---
 title: "STO Weekly Review by Evercity 25–31.03.2019"
 date: 2019-04-01T10:55:09.301Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/1*QEu68ln2L3w1CbkWTkCATw.png

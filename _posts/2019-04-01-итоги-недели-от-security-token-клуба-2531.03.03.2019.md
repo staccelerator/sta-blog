@@ -1,7 +1,7 @@
 ---
 title: "Итоги недели от Security Token Клуба 25–31.03.03.2019"
 date: 2019-04-01T12:06:22.928Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/1*3FcFuOBMtkaUUQ8Z9urCvQ.png

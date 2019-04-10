@@ -1,7 +1,7 @@
 ---
 title: "STO Weekly Review by Evercity 13–19.08.2018"
 date: 2018-08-20T14:41:13.469Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 ---

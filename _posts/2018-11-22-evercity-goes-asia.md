@@ -1,7 +1,7 @@
 ---
 title: "Evercity goes Asia"
 date: 2018-11-22T12:11:03.641Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/1*rWUKqJOZQ1UYFcOAHqT7tQ.jpeg

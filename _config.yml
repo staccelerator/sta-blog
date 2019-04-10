@@ -21,6 +21,12 @@ authors:
     web: 
     twitter: 
     description: "Major Author of the STA Blog"
+
+  evercity:
+      name: Evercity
+      display_name: Evercity
+      web: https://evercity.io
+      avatar: 'assets/images/evercity_author_logo.jpeg'
   
 # Plugins
 plugins: 

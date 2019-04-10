@@ -1,7 +1,7 @@
 ---
 title: "Security Token Club launched in Moscow— connecting professionals in digitisation of traditional…"
 date: 2018-09-19T10:47:07.957Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/0*L5ZB0stW_0Z3razj.jpg

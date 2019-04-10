@@ -1,7 +1,7 @@
 ---
 title: "Current state of STO market: notes on the sidelines of Security Token Industry Launch event in NYC"
 date: 2018-10-18T08:51:01.943Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 featured: true

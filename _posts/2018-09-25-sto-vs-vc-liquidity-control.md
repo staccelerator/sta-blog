@@ -1,7 +1,7 @@
 ---
 title: "STO vs VC: liquidity & control"
 date: 2018-09-25T10:40:32.474Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/0*n8pLbmYJYRviZOmA.jpg

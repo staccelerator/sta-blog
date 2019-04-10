@@ -1,7 +1,7 @@
 ---
 title: "Announcing the launch of Evercity Lab — custom blockchain development studio"
 date: 2019-03-18T10:17:10.434Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/1*GhziwTeS7FBvHXV5ojBTwA.png

@@ -68,7 +68,7 @@ ga('send', 'pageview');
                 {% else %}
                 <li class="nav-item">
                 {% endif %}
-                <a class="nav-link" href="{{ site.baseurl }}">Home</a>
+                <a class="nav-link" href="/">Home</a>
                 </li>
 
                 {% assign categories_list = site.categories %}
@@ -109,7 +109,10 @@ ga('send', 'pageview');
 <div class="mainheading">
     <h1 class="sitetitle">{{ site.name }}</h1>
     <p class="lead">
-        {{ site.description }}
+        by
+        <a href="https://evercity.io">
+        Evercity LLC
+        </a>
     </p>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: "STO vs ICO: investor rights & legal risks"
 date: 2018-09-04T11:05:44.989Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/0*MPvk0IEwc48a_XYl.jpg

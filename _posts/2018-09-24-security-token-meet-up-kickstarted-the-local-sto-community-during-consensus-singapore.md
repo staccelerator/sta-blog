@@ -1,7 +1,7 @@
 ---
 title: "Security Token Meet up kick-started the local STO community during Consensus Singapore"
 date: 2018-09-24T21:33:36.099Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/1*pWZOg1G9culMD6MCDNbQBg.jpeg

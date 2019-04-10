@@ -1,7 +1,7 @@
 ---
 title: "Introducing STO listing by Security Token Club"
 date: 2018-12-28T12:22:25.564Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/800/0*BLDiRZUQFgozqL4O.jpg

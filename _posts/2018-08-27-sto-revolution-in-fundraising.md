@@ -1,7 +1,7 @@
 ---
 title: "STO: Revolution in fundraising"
 date: 2018-08-27T09:21:03.087Z
-author: "Evercity"
+author: evercity
 layout: post
 published: true
 image: https://cdn-images-1.medium.com/max/1200/1*9YpLSTrkyuDEVnYulOfabA.jpeg
