@@ -4,6 +4,7 @@ date: 2018-08-20T14:41:13.469Z
 author: evercity
 layout: post
 published: true
+comments: true
 ---
 
 **Main news**

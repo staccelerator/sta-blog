@@ -4,6 +4,7 @@ date: 2018-09-03T10:04:17.081Z
 author: evercity
 layout: post
 published: true
+comments: true
 ---
 
 ⚡️ STO Weekly Review by [@Evercity](https://steemit.com/@evercity) ⚡️

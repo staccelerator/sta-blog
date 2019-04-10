@@ -4,6 +4,7 @@ date: 2018-09-10T11:56:31.059Z
 author: evercity
 layout: post
 published: true
+comments: true
 ---
 
 ### [STO Weekly Review by Evercity](https://medium.com/evercity-blog/sto-weekly-review-by-evercity-27-08-02-09-2018-66dadbd8da85?source=collection_detail----15f6543a3084-----2---------------------) 03–09.09.2018
