@@ -5,6 +5,8 @@ author: evercity
 layout: post
 comments: true
 image: 'https://cdn-images-1.medium.com/max/800/1*QEu68ln2L3w1CbkWTkCATw.png'
+categories:
+  - STO Weekly Reviews
 ---
 ### **STO Weekly Review by Evercity 8–14.04.2019**
 
