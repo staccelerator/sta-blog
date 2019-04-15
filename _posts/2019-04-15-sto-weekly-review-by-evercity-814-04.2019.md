@@ -6,9 +6,9 @@ layout: post
 comments: true
 image: 'https://cdn-images-1.medium.com/max/800/1*QEu68ln2L3w1CbkWTkCATw.png'
 ---
-### **STO Weekly Review by Evercity 18–24.03.2019**
+### **STO Weekly Review by Evercity 8–14.04.2019**
 
-![]({{site.baseurl}}/_posts/sto-review-8-14.png)
+![sto-review-8-14.png]({{site.baseurl}}/_posts/sto-review-8-14.png)
 
 #### Projects
 
