@@ -1,6 +1,6 @@
 ---
-title: STO Weekly Review by Evercity 01–7.04.2019
-date: {}
+title: ' 2019-04-08-sto-weekly-review-by-evercity-17.04.2019.md'
+date: 2019-04-08T10:55:09.301Z
 author: evercity
 layout: post
 published: true
