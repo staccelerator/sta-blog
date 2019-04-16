@@ -1,6 +1,6 @@
 ---
 title: STO Weekly Review 1-7.04.2019
-date: 2019-04-08T10:55:09.301Z
+date: 2019-04-08T10:55:09.302Z
 author: evercity
 layout: post
 published: true
