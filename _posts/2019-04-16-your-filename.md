@@ -10,7 +10,7 @@ categories:
 ---
 ### **STO Weekly Review by Evercity 8–14.04.2019**
 
-![sto-revie![sto-review-8-14.png]({{site.baseurl}}/assets/images/sto-review-8-14.png)
+![sto-review-8-14.png]({{site.baseurl}}/assets/images/sto-review-8-14.png)
 
 #### Projects
 
