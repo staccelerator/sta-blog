@@ -1,15 +1,13 @@
 ---
 title: STO Weekly Review 1-7.04.2019
 date: 2019-04-08T10:55:09.302Z
+title: STO Weekly Review by Evercity 1–7.04.2019
 author: evercity
 layout: post
 published: true
 comments: true
 image: 'https://cdn-images-1.medium.com/max/800/1*gdNJwFelrK_SD-zTmgIrPQ.png'
 ---
-
-### **STO Weekly Review by Evercity 1–7.04.2019**
-
 #### Projects
 
 🤝Tokeny has [partnered](https://thetokenist.io/tokeny-and-global-law-firm-dla-piper-form-digital-securities-alliance-to-ensure-regulatory-compliance/) with global law firm DLA Piper to form the Digital Securities Alliance (DSA). As a compliance-focused organization, DSA will look to bridge the gap between tokenized securities and securities regulations in jurisdictions throughout the world.

@@ -1,14 +1,15 @@
 ---
 published: true
-date: {}
+date: 2019-04-15T10:28:35.327Z
 author: evercity
 layout: post
 comments: true
-image: 'https://cdn-images-1.medium.com/max/800/1*QEu68ln2L3w1CbkWTkCATw.png'
+image: /assets/images/sto-review-8-14.png
+title: STO Weekly Review by Evercity 8–14.04.2019
+categories:
+  - STO Weekly Reviews
 ---
-### **STO Weekly Review by Evercity 8–14.04.2019**
-
-![sto-review-8-14.png]({{site.baseurl}}/_posts/sto-review-8-14.png)
+![sto-review-8-14.png]({{site.baseurl}}/assets/images/sto-review-8-14.png)
 
 #### Projects
 

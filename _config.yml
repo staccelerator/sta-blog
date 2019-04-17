@@ -10,6 +10,7 @@ mailchimp-list: 'https://russiancarbon.us13.list-manage.com/subscribe/post?u=14a
 include: ["_pages"]
 permalink: /:title/
 main_url: https://staccelerator.com
+baseurl: ""
 
 # Authors
 authors:
