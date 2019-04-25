@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Utility vs Security: New $10 trillion tokenisation wave approaches?'
-date: 2019-04-25T12:40:54.428Z
+date: 2018-05-27T12:40:54.428Z
 categories:
-  - test
+  - ''
 image: /assets/images/utility-security.png
 ---
 #### Wild West crypto days are over. We knew that for a while now, but this week regulatory bodies all over the world came cracking down on ICOs with a series of anti-fraud investigations. Seems like it’s time to play safe. But what IS safe? The article is based on key note speech Alexey Shadrin (Evercity CEO) on Russian Blockchain Week 2018.
