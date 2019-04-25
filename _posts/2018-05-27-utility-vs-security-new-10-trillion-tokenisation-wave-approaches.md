@@ -1,5 +1,7 @@
 ---
 layout: post
+author: evercity
+comments: true
 title: 'Utility vs Security: New $10 trillion tokenisation wave approaches?'
 date: 2018-05-27T12:40:54.428Z
 categories:
