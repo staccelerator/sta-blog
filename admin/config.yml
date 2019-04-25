@@ -2,8 +2,6 @@ backend:
   name: github
   repo: staccelerator/sta-blog
 
-publish_mode: editorial_workflow
-
 media_folder: "assets/images"
 
 collections:
@@ -14,8 +12,8 @@ collections:
     slug: "---"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
-      - {label: "Author", name: "author", widget: "hidden", options: ["evercity"], required: true}
-      - {label: "Comments", name: "comments", widget: "select", options: [true,false], default: false}
+      - {label: "Author", name: "author", widget: "select", options: ["evercity"], required: true}
+      - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "list", required: false}
