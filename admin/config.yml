@@ -15,7 +15,7 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Author", name: "author", widget: "hidden", default: "evercity"}
-      - {label: "Commnets", name: "commnets", widget: "hidden", default: true}
+      - {label: "Comments", name: "comments", widget: "hidden", default: true}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "list", required: false}
