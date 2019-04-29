@@ -2,22 +2,10 @@
 layout: post
 author: evercity
 comments: true
-title: STO Weekly Review by Evercity 22-28.04.2019
-date: 2019-04-29T11:51:22.128Z
+title: test post
+date: 2019-04-29T13:58:50.293Z
 categories:
-  - STO Weekly Reviews
-image: /assets/images/sto-review-22-28.png
+  - test
+image: /assets/images/test-image.png
 ---
-![](/assets/images/sto-review-22-28.png)
-
-## Main news
-
-🇫🇷Societe Generale SFH, the covered bond vehicle of Societe Generale, [issued](https://www.societegenerale.com/en/newsroom/first-covered-bond-as-a-security-token-on-a-public-blockchain?sharing=true) the first covered bond (EUR 100 million) as a security token on a public blockchain.
-
-## Projects
-
-🔒Onchain Custodian (ONC), the digital asset custodian backed by Sequoia, Fosun and DHVC, [announced](https://medium.com/@oncustodian/onchain-custodian-the-sequoia-backed-digital-asset-custodian-announces-its-first-customers-and-138e7d306059) the on-boarding of its first customers as well as the establishment of partnerships.
-
-🌱US regulator FINRA [granted ATS license](https://www.securities.io/finra-grants-ats-licensure-to-seedinvest/) to Circle-backed SeedInvest. This approval grants SeedInvest the ability to form a secondary market in which they can trade traditional securities.
-
-## [Join Security Token Club](https://tglink.ru/stoaccelerator)
+\# test post
