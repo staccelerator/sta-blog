@@ -1,16 +1,13 @@
 ---
-published: true
-date: 2019-04-15T10:28:35.327Z
-author: evercity
 layout: post
+author: evercity
 comments: true
-image: /assets/images/sto-review-8-14.png
 title: STO Weekly Review by Evercity 8–14.04.2019
+date: 2019-04-15T10:28:35.327Z
 categories:
   - STO Weekly Reviews
+image: /assets/images/sto-review-8-14.png
 ---
-![sto-review-8-14.png]({{site.baseurl}}/assets/images/sto-review-8-14.png)
-
 #### Projects
 
 🐝Swarm brings security tokens to [TRON blockchain](https://medium.com/tron-foundation/swarm-to-bring-security-tokens-to-tron-blockchain-d2d8934548a1): a blockchain tech company which provides fee-free tokenization of assets which pay dividends, will allow asset providers with proper licensing and KYC measures to issue tokens on TRON. 
@@ -21,8 +18,8 @@ categories:
 
 💵Pennsylvania’s state-backed VC firm Ben Franklin Technology Partners is [tokenizing](https://www.coindesk.com/pennsylvanias-state-backed-vc-firm-is-tokenizing-an-investment-fund) «GO Philly» investment fund with the help of Securitize, aiming to raise $50 million. The tokens will be “a digital representation of a limited partnership contract” and comply with the SEC’s Rule 506(c). 
 
+#### Regulations
 
-#### Regulations 
 🇲🇺Mauritius financial regulator [issued](https://cointelegraph.com/news/mauritius-financial-regulator-issues-guidelines-on-security-token-offerings) guidelines on security token offerings. In the document, the FSC declared that security tokens are considered digitally represented securities as defined in the Securities Act of 2005. As a consequence, when STOs are conducted in or from Mauritius, the offering is regulated by local security regulations, including the requirement for a prospectus.
 
 🇪🇺The European Union Blockchain Observatory and Forum [released](https://cointelegraph.com/news/eu-blockchain-observatory-releases-report-on-tokenization-ai-and-iot) a report entitled “Tokenization of physical assets and the impact of IoT and AI”. 
