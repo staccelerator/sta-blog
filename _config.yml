@@ -51,3 +51,7 @@ paginate_path: /page:num/
 markdown: kramdown
 highlighter: rouge
 lazyimages: "enabled"
+# Feed
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
