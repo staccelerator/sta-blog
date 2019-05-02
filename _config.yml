@@ -51,6 +51,3 @@ paginate_path: /page:num/
 markdown: kramdown
 highlighter: rouge
 lazyimages: "enabled"
-feed:
-  categories:
-    - News
