@@ -6,6 +6,7 @@ title: STO Weekly Review by Evercity 22-28.04.2019
 date: 2019-04-29T14:17:47.958Z
 categories:
   - STO Weekly Reviews
+  - News
 image: /assets/images/sto-review-22-28.png
 ---
 ![](/assets/images/sto-review-22-28.png)
