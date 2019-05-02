@@ -1,11 +1,14 @@
 ---
-title: "“Energy Blockchain Hack”: first Russian hackathon for energy markets takes place in Moscow"
-date: 2018-11-14T10:41:38.496Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/0*5A_9IQsw56BPQe9G
+title: >-
+  “Energy Blockchain Hack”: first Russian hackathon for energy markets takes
+  place in Moscow
+date: 2018-11-14T10:41:38.496Z
+categories:
+  - News
+image: 'https://cdn-images-1.medium.com/max/800/0*5A_9IQsw56BPQe9G'
 ---
 
 
