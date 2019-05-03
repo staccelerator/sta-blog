@@ -6,6 +6,7 @@ title: STO Weekly Review by Evercity 8–14.04.2019
 date: 2019-04-15T10:28:35.327Z
 categories:
   - STO Weekly Reviews
+  - News
 image: /assets/images/sto-review-8-14.png
 ---
 #### Projects
