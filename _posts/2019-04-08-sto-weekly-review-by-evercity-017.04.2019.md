@@ -1,11 +1,13 @@
 ---
-title: STO Weekly Review 1-7.04.2019
+layout: post
 date: 2019-04-08T10:55:09.302Z
 title: STO Weekly Review by Evercity 1–7.04.2019
 author: evercity
-layout: post
 published: true
 comments: true
+categories:
+  - STO Weekly Reviews
+  - News
 image: 'https://cdn-images-1.medium.com/max/800/1*gdNJwFelrK_SD-zTmgIrPQ.png'
 ---
 #### Projects
