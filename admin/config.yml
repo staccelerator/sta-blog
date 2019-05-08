@@ -3,6 +3,7 @@ backend:
   repo: staccelerator/sta-blog
 
 media_folder: "assets/images"
+publish_mode: editorial_workflow
 
 collections:
   - name: "post"
