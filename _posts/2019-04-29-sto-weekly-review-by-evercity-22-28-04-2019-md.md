@@ -3,6 +3,7 @@ layout: post
 author: evercity
 comments: true
 title: STO Weekly Review by Evercity 22-28.04.2019
+description: test test test test test
 date: 2019-04-29T14:17:47.958Z
 categories:
   - STO Weekly Reviews
