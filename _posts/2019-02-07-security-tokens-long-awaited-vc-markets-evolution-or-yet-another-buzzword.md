@@ -1,17 +1,20 @@
 ---
-layout: post
-author: evercity
-comments: true
-title: 'Security tokens: long awaited VC markets evolution or yet another buzzword?'
-description: 'Recent years have shown a major decline in VCs willing '
+title: "Security tokens: long awaited VC markets evolution or yet another buzzword?"
 date: 2019-02-07T17:35:42.905Z
-image: 'https://cdn-images-1.medium.com/max/800/1*1FnNSBGmWu6q1wGsXMZ77g.png'
+author: evercity
+layout: post
+published: true
+comments: true
+image: https://cdn-images-1.medium.com/max/800/1*1FnNSBGmWu6q1wGsXMZ77g.png
 ---
+
 ### **Security tokens: long awaited VC markets evolution or yet another buzzword?**
 
 _Illustration: Deloitte.com_
 
-#### ****
+
+
+#### **Recent years have shown a major decline in VCs willing to invest in early stage ventures, leaving multiple startups with bleak chances to get funded and make their impact. Why has venture capital become incapable of fulfilling its initial purpose of driving innovation? Is tokenization truly able to make a change, or security tokens are just another buzzword and a leftover from ICOs?**
 
 ### **VCs less willing to fund early stage startups**
 
@@ -36,7 +39,6 @@ Investors enjoyed the ICO idea of tokens so much, because it provided almost ins
 Of course, issuing a security token does not magically provide liquidity per se. That’s what many former ICO adepts tend to forget about. However, it gives way more options and flexibility for a startup with an innovative (and sustainable) business idea.
 
 _Alexey Shadrin, Evercity CEO &amp; Co-founder:_
-
 > “If we want to live in clean sustainable future, we need to kickstart democratizing and wiping out barriers of raising capital for talented tech teams. Blockchain infrastructure can make legacy VC markets more accessible and transparent to new categories of startups and investors, globally creating an existentially needed innovations boost”.
 
 ### **Diversifying risk for investors and entrepreneurs**
@@ -54,7 +56,6 @@ Additional liquidity, introduced by tokenization, mitigates the risks and makes 
 **Thus, tokenization introduces a new fundraising method that is evolving into something between traditional VC investments and crowd sales.**
 
 _Denis Soldatov, founder of Russian-speaking Ethereum community and DevOps in Parity Technologies:_
-
 > “Blockchain itself does not solve the liquidity problem. Investors who prefer to invest in crypto assets do. They choose lower entry barriers and fast, secure and transparent asset conversion in investment portfolio. Blockchain does not have any limits or borders, except those that market participants agree on to reach consensus. For example, using DAO functionality for co-financing”.
 
 Tokenization is already making the moves to transform the venture capital system by creating tokenized funds, that might in fact create this miraculous liquidity for investors — and make VCs more relaxed and eager to invest in early stage venture again.
@@ -65,12 +66,12 @@ We will get back to this topic in our next article, coming next week on Security
 
 More good reads on the topic:
 
-* [Security Token Thesis](https://hackernoon.com/the-security-token-thesis-4c5904761063) by Stephen McKeon
-* [Venture-Funded Technology Startups Could be the Next Big Market for STOs](https://medium.com/datadriveninvestor/venture-funded-technology-startups-could-be-the-next-big-market-for-stos-73ac3ec842a5) by Dave Hendricks
-* [Security Token Anthology](https://medium.com/@jrodthoughts/the-security-token-anthology-december-2018-edition-1b603932aab0) by Jesus Rodriguez
-* [Current state of STO market: notes on the sidelines of Security Token Industry Launch event in NYC](https://medium.com/evercity-blog/current-state-of-sto-market-notes-on-the-sidelines-of-security-token-industry-launch-event-in-nyc-51b85cb77626)
-* [STO vs ICO: investor rights &amp; legal risks](https://medium.com/evercity-blog/sto-vs-ico-investor-rights-legal-risks-418c01bde767?source=collection_home---5------23---------------------)
-* [Listing &amp; overview of Security Token projects](https://docs.google.com/spreadsheets/d/1wra1BaJ4JLtKUY-RCmaEHHYR2lagUKk5Bou77gvaIlw/edit#gid=634347005)
-* [Join Security Token Club](https://t.me/stoaccelerator)
+*   [Security Token Thesis](https://hackernoon.com/the-security-token-thesis-4c5904761063) by Stephen McKeon
+*   [Venture-Funded Technology Startups Could be the Next Big Market for STOs](https://medium.com/datadriveninvestor/venture-funded-technology-startups-could-be-the-next-big-market-for-stos-73ac3ec842a5) by Dave Hendricks
+*   [Security Token Anthology](https://medium.com/@jrodthoughts/the-security-token-anthology-december-2018-edition-1b603932aab0) by Jesus Rodriguez
+*   [Current state of STO market: notes on the sidelines of Security Token Industry Launch event in NYC](https://medium.com/evercity-blog/current-state-of-sto-market-notes-on-the-sidelines-of-security-token-industry-launch-event-in-nyc-51b85cb77626)
+*   [STO vs ICO: investor rights &amp; legal risks](https://medium.com/evercity-blog/sto-vs-ico-investor-rights-legal-risks-418c01bde767?source=collection_home---5------23---------------------)
+*   [Listing &amp; overview of Security Token projects](https://docs.google.com/spreadsheets/d/1wra1BaJ4JLtKUY-RCmaEHHYR2lagUKk5Bou77gvaIlw/edit#gid=634347005)
+*   [Join Security Token Club](https://t.me/stoaccelerator)
 
 Article by [Alexey Shadrin](https://www.linkedin.com/in/alexeyshadrin/) and [Masha Vyazemskaya](https://www.linkedin.com/in/mariavyazemskaya/)
