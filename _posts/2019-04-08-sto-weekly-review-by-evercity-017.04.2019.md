@@ -1,10 +1,14 @@
 ---
 layout: post
-date: 2019-04-08T10:55:09.302Z
-title: STO Weekly Review by Evercity 1–7.04.2019
 author: evercity
-published: true
 comments: true
+title: STO Weekly Review by Evercity 1–7.04.2019
+description: >-
+  United States Securities and Exchanges Commission FinHub has publisheda
+  framework to help market participants ascertain whether or not a digital asset
+  is deemed to be an investment contract, and therefore a security, accompanied
+  by official statement.
+date: 2019-04-08T10:55:09.302Z
 categories:
   - STO Weekly Reviews
   - News
