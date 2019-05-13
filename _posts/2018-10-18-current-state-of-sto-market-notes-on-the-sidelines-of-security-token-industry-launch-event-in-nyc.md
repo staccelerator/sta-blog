@@ -1,19 +1,19 @@
 ---
-title: "Current state of STO market: notes on the sidelines of Security Token Industry Launch event in NYC"
-date: 2018-10-18T08:51:01.943Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-featured: true
-image: https://cdn-images-1.medium.com/max/1200/0*8TIeeT_ZL4h44gMK
+title: >-
+  Current state of STO market: notes on the sidelines of Security Token Industry
+  Launch event in NYC
+description: >-
+  “Watching panels on STOs is like eavesdropping on a group of 9th graders
+  talking about sex. A lot of talk, very little real experience, but a lot of
+  enthusiasm about it happening in the near future”, — Dave Hendricks (Vertalo)
+date: 2018-10-18T08:51:01.943Z
+categories:
+  - New
+image: 'https://cdn-images-1.medium.com/max/1200/0*8TIeeT_ZL4h44gMK'
 ---
-
-### **Current state of STO market: notes on the sidelines of Security Token Industry Launch event in NYC**
-
-#### “Watching panels on STOs is like eavesdropping on a group of 9th graders talking about sex. A lot of talk, very little real experience, but a lot of enthusiasm about it happening in the near future”, — Dave Hendricks (Vertalo)
-
-
 _Special thanks to Jor Law (VerifyInvestor.com), Rika Khurdayan (Dilendorf &amp; Khurdayan), Ivan Podmasko (Scrypta) for helping prepare this article_
 
 On 5th October, the bell rang to mark the official Security Token Industry Launch in NYC. The high level event, taking place in Conrad Hotel NYC and sponsored by Merrill Lynch (Bank of America group) among others, brought together leading Wall Street finance &amp; legal professionals and visionaries, united by (a bit mystical) ideas of security tokenisation.
@@ -25,8 +25,6 @@ Security Token Industry Launch was one of the most attended events in NYC crypto
 The event organiser — Security Token Academy — has done excellent job bringing in industry experts and organising informative panels on all aspects of the new intriguing STO market: regulation, technical foundations, issuance and secondary market.
 
 The official part was opened by a Wall Street perspective from a former NASDAQ Vice Chairman David Wield, who covered the current state of the technology adoption. Among other highlights, Fabian Vogelsteller (creator of ERC-20 standard) presented technical foundation and liquidity promises of security tokens. Other speakers included CEOs and founders of the most advanced industry players: Securitize, Polymath, tZero, Swarm Fund, Neufund and others.
-
-
 
 ![image](https://cdn-images-1.medium.com/max/1200/0*yK7VNAl9x8FYyySw)
 
@@ -46,11 +44,11 @@ While SEC has almost zero tolerance to the concept of utility tokens, significan
 
 What promises STOs hold for democratisation of the market?
 
-*   For those unfamiliar with financial markets, who never had a broker or a terminal in Saxo Bank, it’s hard to imagine how bureaucratised and complex the current market is. Blockchain allows the decrease in the number of intermediaries and simplifies market access to people with small funds: imagine being able to buy 1/100 of Apple’s stock.
-*   Blockchain and its distributed ledger attributes make it possible to migrate the record of dealings to a more transparent and credible basis. Some experts believe that in three years’ time we will see a massive shift from traditional off-chain electronic book-entry, to a recording of ownership entirely on the distributed ledger.
-*   Smart contracts and their combinations in protocols will enable automated trading and other operations with securities. Such exchanges will be open 24/7. No more 9 to 6 on workdays.
-*   Cost reduction: a recent research shows the [cost benefits of an STO](https://medium.com/entoro-capital/cost-benefits-of-digitization-vs-traditional-private-placement-b7312fffe341) in comparison with traditional private placement.
-*   Stablecoins also provide an exceptional opportunity to create instruments to protect investors from fiat &amp; crypto volatility.
+* For those unfamiliar with financial markets, who never had a broker or a terminal in Saxo Bank, it’s hard to imagine how bureaucratised and complex the current market is. Blockchain allows the decrease in the number of intermediaries and simplifies market access to people with small funds: imagine being able to buy 1/100 of Apple’s stock.
+* Blockchain and its distributed ledger attributes make it possible to migrate the record of dealings to a more transparent and credible basis. Some experts believe that in three years’ time we will see a massive shift from traditional off-chain electronic book-entry, to a recording of ownership entirely on the distributed ledger.
+* Smart contracts and their combinations in protocols will enable automated trading and other operations with securities. Such exchanges will be open 24/7. No more 9 to 6 on workdays.
+* Cost reduction: a recent research shows the [cost benefits of an STO](https://medium.com/entoro-capital/cost-benefits-of-digitization-vs-traditional-private-placement-b7312fffe341) in comparison with traditional private placement.
+* Stablecoins also provide an exceptional opportunity to create instruments to protect investors from fiat &amp; crypto volatility.
 
 Participation of such heavy-weight entities as NASDAQ subsidiaries alongside with colossal advantages of the technology leave no doubts that we will sooner or later see STO market growth.
 
@@ -60,7 +58,7 @@ To make it sooner, we have to be efficient in overcoming multiple issues.
 
 Security Token Offering (STO) differs from already the notorious initial coin offering (ICO) concept in several core features:
 
-*   **_Essence_**
+* _**Essence**_
 
 Utility tokens issued via ICOs are designed to serve as an internal currency to pay for particular services within an app.
 
@@ -68,13 +66,13 @@ Security tokens are explicitly an investment instrument (equity, debt, other).
 
 However, few ICO investors have purchased a project’s tokens to benefit from its future services. They do so for short to mid-term profits (surprise!). This has lead many projects to inventing a contrived functionality for their tokens, while in fact not needing blockchain at all.
 
-*   **_Investor rights_**
+* _**Investor rights**_
 
 Utility tokens do not provide investors with any rights (except for use within an app). At the end of the day they can only be traded on a crypto exchange.
 
 Security tokens represent particular ownership &amp; revenue distribution rights, defined by smart contracts. Investors know for sure, what they get for their money.
 
-*   **_Legal_**
+* _**Legal**_
 
 Utility tokens are not regulated (at least not by typical securities regulation) — the best a project can do is to try and convince everybody that people buy its tokens just to use them within an app. True story.
 
@@ -88,13 +86,11 @@ Right now we are witnessing how STOs merge with traditional financial instrument
 
 Right now, VerifyInvestor.com’s platform (one of the conference headliners, recently acquired by Overstock’s subsidiary tZero) is one of the few companies who already provides these actual services.
 
-
-
 ![image](https://cdn-images-1.medium.com/max/1200/1*jzU9E4psOAia-sJ2FEXFLA.jpeg)
 
 After multiple talks with Wall Street &amp; blockchain leaders, we have come to point out three key approaches to security tokenisation:
 
-1.  Security Token is a digital security
+1. Security Token is a digital security
 
 Adepts of this approach regard security tokens traditional securities, but issued on distributed ledger.
 
@@ -104,17 +100,13 @@ Professional SEC-registered market players are starting to emerge from tradition
 
 2. Security Token is a digital asset with limited properties of tradition securities.
 
-
-
 ![image](https://cdn-images-1.medium.com/max/1200/1*aQzToZwKGQ3RZFL-AV58PA.jpeg)
 
-3) Security and utility tokens both have their own role in the financial world of the future.
+3. Security and utility tokens both have their own role in the financial world of the future.
 
 The third approach suggests that we cannot ignore utility tokens — they still exist, even though in reality only 2% of all token offerings constituted true utilities. SEC has already acknowledged the two top cryptocurrencies Bitcoin and Ethereum as non-securities.
 
 Two of Evercity’s projects are utilities by all parameters, and they are more than real.
-
-
 
 ![image](https://cdn-images-1.medium.com/max/1200/0*IGAxKPjgnJGGTTxT)
 
@@ -124,7 +116,7 @@ Technology foundations panel moderated by Jor Law (VerifyInvestor.com) with Maso
 
 Today security token offerings can be applied for:
 
-*   Tokenized funds
+* Tokenized funds
 
 This is one of the most popular cases by far: tokenization introduces [unprecedented liquidity promises for venture funds](https://medium.com/evercity-blog/sto-vs-vc-liquidity-control-27f2affdb454), which in traditional format require 7–12 years before the exit alongside with high entry barriers for investors.
 
@@ -132,21 +124,19 @@ SPiCE VC fund, whose co-founder Carlos Domingo was a speaker on the Security Tok
 
 By the matter of fact, Carlos suggested that “digital securities” term should be applied instead of “security tokens”.
 
-*   Equity
+* Equity
 
 At the moment, there is no precedent of security tokens being 100% equal to equity. Almost all countries require a stock issuer to keep a registry of shareholders, which includes real name and address, rather than simply a cryptocurrency wallet.
 
 If blockchain is accepted as a legal way of shareholders’ personal data storage, soon we might witness an example of a security token being equal to real equity. But at the moment, we are still not there.
 
-*   Debt
-
-
+* Debt
 
 ![image](https://cdn-images-1.medium.com/max/1200/1*Yq9epTdWmlh-dZhYWmNo2A.jpeg)
 
 In September 2018 [Austrian government has announced its intentions to issue $1,3 billion worth of bonds](https://cointelegraph.com/news/austria-to-use-ethereum-public-blockchain-to-issue-135-bln-in-government-bonds) on Ethereum public blockchain.
 
-*   Real estate
+* Real estate
 
 Real estate community is excited (maybe even more than everyone else) about the advantages of asset tokenization. Imagine being able to “short Manhattan” and “long Brooklyn”, — example suggested by Stephen McKeon in his [Security Token Thesis](https://hackernoon.com/the-security-token-thesis-4c5904761063).
 
@@ -156,21 +146,15 @@ Elevated Returns (invest-management firm with a focus on real estate) has closed
 
 There are multiple potential opportunities around being able to own a small chuck of commercial real estate, for example, — but even being so seducing, they are still meeting some obstacles.
 
-
-
 ![image](https://cdn-images-1.medium.com/max/1200/1*ovDtqBBuuLPsom2yIdU-sQ.jpeg)
-
-
-
-
 
 ![image](https://cdn-images-1.medium.com/max/1200/1*4KsJ7c-k0U8xoh8gGVRCQA.jpeg)
 
-*   Migrating traditional stocks to blockchain
+* Migrating traditional stocks to blockchain
 
 This instruments allows to democratize access to existing stocks via selling fractions of a stock for any sum.
 
-*   Fine art
+* Fine art
 
 Last month 31,5% of Andy Warhol’s masterpiece «14 small electric chairs» was tokenized and sold to 100 accredited investors.
 
@@ -196,15 +180,16 @@ Because at the end of the day, what we are all looking for is…**security.**
 
 —
 
-### **_Authors_**
+### _**Authors**_
+
 > [Alexey Shadrin](https://www.linkedin.com/in/alexeyshadrin/), CEO and Founder Evercity> [Masha Vyazemskaya](https://www.linkedin.com/in/mariavyazemskaya/), Communications at Evercity
 
 **Evercity** carefully selects best blockchain, IoT, Artificial Intelligence, cleantech, biotech projects in alignment with UN Sustainable development goals helping them to find further investments and deployment in smart cities mainly in Asia- Pacific region and the rest of the world.
 
 **Security Token Accelerator** is an Evercity portfolio company, an end-to-end platform for compliant issuance and investment in tokenized assets (equity/debt) of smart sustainable city startups with a multi-layer investor protection.
 
-**Security Token Club (International)**: [https://t.me/stoaccelerator](https://t.me/stoaccelerator)
+**Security Token Club (International)**: <https://t.me/stoaccelerator>
 
-**Security Token Club (Russian):** [https://t.me/stoclub](https://t.me/stoclub)
+**Security Token Club (Russian):** <https://t.me/stoclub>
 
 _To invest in tokenized assets of smart city innovations, contact us at sto@evercity.io_
