@@ -15,7 +15,7 @@ collections:
       - {label: "Author", name: "author", widget: "select", options: ["evercity"], required: true}
       - {label: "Comments", name: "comments", widget: "boolean", default: true}
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "text"}      
+      - {label: "Description", name: "description", widget: "text", pattern: [".{50,330}", "Must have at least 50 at most 330 characters"]}      
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "list", required: false}
       - {label: "Image", name: "image", widget: "image", required: true}
