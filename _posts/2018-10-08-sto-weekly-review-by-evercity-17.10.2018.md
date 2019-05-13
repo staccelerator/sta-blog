@@ -1,11 +1,16 @@
 ---
-title: "STO Weekly Review by Evercity 1–7.10.2018"
-date: 2018-10-08T12:33:17.892Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*fi8hh6OaxK4o4TbYGy4qJg.png
+title: STO Weekly Review by Evercity 1–7.10.2018
+description: >-
+  Securrency announced the launch of its own Compliance Aware Token (CAT-20 и
+  CAT-271) standards, that are interoperable ledger-agnostic security token
+  protocols. Tokens can be issued and transferred across any blockchain,
+  including Ethereum, Stellar, Ripple, GoChain and EoS, enabling «true
+  liquidity».
+date: 2018-10-08T12:33:17.892Z
+image: 'https://cdn-images-1.medium.com/max/800/1*fi8hh6OaxK4o4TbYGy4qJg.png'
 ---
 
 ### [STO Weekly Review by Evercity 1–7.10.2018](https://medium.com/evercity-blog/sto-weekly-review-by-evercity-24-30-09-2018-6785670b6b73?source=collection_detail----15f6543a3084-----0---------------------)
