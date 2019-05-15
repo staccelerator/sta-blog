@@ -60,6 +60,6 @@ feed_update_frequency: 1
 # Google Analytics
 jekyll_analytics:
   GoogleAnalytics:          # Add, if you want to track with Google Analytics
-    id: 'UA-130258335-3'          # Required - replace with your tracking id
+    id: UA-130258335-3          # Required - replace with your tracking id
     anonymizeIp: false      # Optional - Default: false - set to true for anonymized tracking
 
