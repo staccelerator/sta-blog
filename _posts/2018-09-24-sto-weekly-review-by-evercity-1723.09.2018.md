@@ -1,12 +1,15 @@
 ---
-title: "STO Weekly Review by Evercity 17–23.09.2018"
-date: 2018-09-24T22:12:36.489Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-featured: true
-image: https://cdn-images-1.medium.com/max/800/1*2cIql7MbeQBtDcYjUlmsog.png
+title: STO Weekly Review by Evercity 17–23.09.2018
+description: >-
+  Second meet up of Security Token club in Singapore on the second day of
+  Consensus conference - and other news of the week. 
+date: 2018-09-24T22:12:36.489Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*2cIql7MbeQBtDcYjUlmsog.png'
 ---
 
 ### [STO Weekly Review by Evercity 17–23.09.2018](https://medium.com/evercity-blog/sto-weekly-review-by-evercity-03-09-09-2018-d3d5740e403a?source=collection_detail----15f6543a3084-----2---------------------)
