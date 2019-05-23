@@ -1,11 +1,17 @@
 ---
-title: "STO Weekly Review by Evercity 18–24.03.2019"
-date: 2019-03-26T15:11:35.850Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*6wROefwSPpKM5IXSUSkOPg.png
+title: STO Weekly Review by Evercity 18–24.03.2019
+description: >-
+  IBM is taking its banking clients a step closer to cryptocurrency. Announced
+  Monday, six international banks have signed letters of intent to issue
+  stablecoins, or tokens backed by fiat currency, on World Wire, an IBM payment
+  network that uses the Stellar public blockchain - and other news of the week.
+date: 2019-03-26T15:11:35.850Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*6wROefwSPpKM5IXSUSkOPg.png'
 ---
 
 ### **STO Weekly Review by Evercity 18–24.03.2019**
