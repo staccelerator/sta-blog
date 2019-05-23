@@ -1,11 +1,16 @@
 ---
-title: "STO Weekly Review by Evercity 24–30.09.2018"
-date: 2018-10-01T14:22:33.631Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*HQug38Mu0xQD_rpW4vBq9Q.png
+title: STO Weekly Review by Evercity 24–30.09.2018
+description: >-
+  Austria will issue €1,15 billion worth of government bonds on public Ethereum
+  blockchain, notarisation operated by Oesterreichische Kontrollbank - and other
+  news of the week. 
+date: 2018-10-01T14:22:33.631Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*HQug38Mu0xQD_rpW4vBq9Q.png'
 ---
 
 ### [STO Weekly Review by Evercity 24–30.09.2018](https://medium.com/evercity-blog/sto-weekly-review-by-evercity-03-09-09-2018-d3d5740e403a?source=collection_detail----15f6543a3084-----2---------------------)
