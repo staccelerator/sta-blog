@@ -1,11 +1,17 @@
 ---
-title: "STO Weekly Review by Evercity 04–10.03.2019"
-date: 2019-03-11T09:24:19.941Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*C8PvoifDcXAoUsoT9xSFOA.png
+title: STO Weekly Review by Evercity 04–10.03.2019
+description: >-
+  Corda Enterprise, R3’s blockchain platform has been chosen by SIX, one of
+  Europe’s leading Financial Market Infrastructures, to provide the underlying
+  blockchain technology for its digital asset listing, trading, settlement and
+  custody service, SIX Digital Exchange (SDX) - and other news of the week.
+date: 2019-03-11T09:24:19.941Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*C8PvoifDcXAoUsoT9xSFOA.png'
 ---
 
 ### **STO Weekly Review by Evercity 04–10.03.2019**
