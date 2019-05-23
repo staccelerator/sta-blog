@@ -7,11 +7,10 @@ description: >-
   United States Securities and Exchanges Commission FinHub has published a
   framework to help market participants ascertain whether or not a digital asset
   is deemed to be an investment contract, and therefore a security, accompanied
-  by official statement.
+  by official statement - and other news of the week.
 date: 2019-04-08T10:55:09.302Z
 categories:
   - STO Weekly Reviews
-  - News
 image: 'https://cdn-images-1.medium.com/max/800/1*gdNJwFelrK_SD-zTmgIrPQ.png'
 ---
 #### Projects
