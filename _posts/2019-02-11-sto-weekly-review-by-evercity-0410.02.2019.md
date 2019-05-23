@@ -1,11 +1,16 @@
 ---
-title: "STO Weekly Review by Evercity 04–10.02.2019"
-date: 2019-02-11T11:57:40.198Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*0sNdP4NqCc4ZbB0ZqqH7Rw.png
+title: STO Weekly Review by Evercity 04–10.02.2019
+description: >-
+  SPiCE VC announced that it has made a strategic investment by taking a stake
+  in Archax, a yet-to-be-launched institutional digital securities exchange,
+  which will be based in London  - and other news of the week.
+date: 2019-02-11T11:57:40.198Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*0sNdP4NqCc4ZbB0ZqqH7Rw.png'
 ---
 
 ### **STO Weekly Review by Evercity 04–10.02.2019**
