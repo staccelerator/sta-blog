@@ -6,14 +6,11 @@ title: STO Weekly Review by Evercity 8–14.04.2019
 description: >-
   Mauritius financial regulator issued guidelines on security token offerings.
   In the document, the FSC declared that security tokens are considered
-  digitally represented securities as defined in the Securities Act of 2005. As
-  a consequence, when STOs are conducted in or from Mauritius, the offering is
-  regulated by local security regulations, including the requirement for a
-  prospectus.
+  digitally represented securities as defined in the Securities Act of 2005 -
+  and other news of the week.
 date: 2019-04-15T10:28:35.327Z
 categories:
   - STO Weekly Reviews
-  - News
 image: /assets/images/sto-review-8-14.png
 ---
 #### Projects
