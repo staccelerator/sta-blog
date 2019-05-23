@@ -1,11 +1,17 @@
 ---
-title: "STO Weekly Review by Evercity 25–31.03.2019"
-date: 2019-04-01T10:55:09.301Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*QEu68ln2L3w1CbkWTkCATw.png
+title: STO Weekly Review by Evercity 25–31.03.2019
+description: >-
+  Börse Stuttgart, Germany’s second-largest stock exchange, plans to collaborate
+  with digital publisher Axel Springer and finanzen.net, the country’s popular
+  online financial news site, to develop a trading platform powered by
+  blockchain technology - and other news of the week.
+date: 2019-04-01T10:55:09.301Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*QEu68ln2L3w1CbkWTkCATw.png'
 ---
 
 ### **STO Weekly Review by Evercity 25–31.03.2019**
