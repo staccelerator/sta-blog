@@ -13,7 +13,7 @@ description: >-
   going to win again — this is yet to be decided.
 date: 2018-08-27T09:21:03.087Z
 categories:
-  - News
+  - Articles
 image: 'https://cdn-images-1.medium.com/max/1200/1*9YpLSTrkyuDEVnYulOfabA.jpeg'
 ---
 **Gold fever of XXI century**
