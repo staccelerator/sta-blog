@@ -1,11 +1,19 @@
 ---
-title: "Security Token Meet up kick-started the local STO community during Consensus Singapore"
-date: 2018-09-24T21:33:36.099Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*pWZOg1G9culMD6MCDNbQBg.jpeg
+title: >-
+  Security Token Meet up kick-started the local STO community during Consensus
+  Singapore
+description: >-
+  On 20th September first Singapore Security Token Meet-up brought together 50
+  financial industry professionals at the Life.SREDA VC office on the second day
+  of Consensus Singapore. The meet up became a starting point of Asian STO
+  community that aims at sharing latest insights and investment opportunities in
+  the growing $10 trillion industry. The event was organized by Evercity venture
+  ecosystem.
+date: 2018-09-24T21:33:36.099Z
+image: 'https://cdn-images-1.medium.com/max/800/1*pWZOg1G9culMD6MCDNbQBg.jpeg'
 ---
 
 ### **Security Token Meet up kick-started the local STO community during Consensus Singapore**
