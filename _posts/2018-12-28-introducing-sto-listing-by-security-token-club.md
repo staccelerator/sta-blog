@@ -1,11 +1,17 @@
 ---
-title: "Introducing STO listing by Security Token Club"
-date: 2018-12-28T12:22:25.564Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/0*BLDiRZUQFgozqL4O.jpg
+title: Introducing STO listing by Security Token Club
+description: >-
+  This August, we created our first Security Token Club Telegram channel. Fast
+  forward to five months later, Security Token Club is present in five regions
+  (International, Russia, Japan, Korea, Turkey), with over 900 participants
+  worldwide and multiple events organized in Russia, Singapore and Hong Kong.
+date: 2018-12-28T12:22:25.564Z
+categories:
+  - News
+image: 'https://cdn-images-1.medium.com/max/800/0*BLDiRZUQFgozqL4O.jpg'
 ---
 
 This August, we created our first Security Token Club Telegram channel. Fast forward to five months later, Security Token Club is present in five regions ([International](https://t.me/stoaccelerator), [Russia](https://t.me/stoclub), [Japan](https://t.me/STOclub_JP), [Korea](https://t.me/stoclub_kr), [Turkey](https://t.me/stoclub_TR)), with over 900 participants worldwide and multiple events organized in Russia, Singapore and Hong Kong.
