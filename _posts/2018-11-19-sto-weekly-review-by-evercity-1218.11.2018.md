@@ -1,11 +1,15 @@
 ---
-title: "STO Weekly Review by Evercity 12–18.11.2018"
-date: 2018-11-19T10:48:16.602Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*rXvhu-uBMuinigB8F2I-UQ.png
+title: STO Weekly Review by Evercity 12–18.11.2018
+description: >-
+  The Securities and Exchange Commission has ordered penalties against two
+  Initial Coin Offerings: Paragon and Airfox - and other news of the week.
+date: 2018-11-19T10:48:16.602Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*rXvhu-uBMuinigB8F2I-UQ.png'
 ---
 
 **Main**
