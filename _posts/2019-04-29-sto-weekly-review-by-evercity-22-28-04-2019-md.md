@@ -4,13 +4,12 @@ author: evercity
 comments: true
 title: STO Weekly Review by Evercity 22-28.04.2019
 description: >-
-  Main news: Societe Generale SFH, the covered bond vehicle of Societe Generale,
-  issued the first covered bond (EUR 100 million) as a security token on a
-  public blockchain. 
+  Societe Generale SFH, the covered bond vehicle of Societe Generale, issued the
+  first covered bond (EUR 100 million) as a security token on a public
+  blockchain - and other news of the week.
 date: 2019-04-29T14:17:47.958Z
 categories:
   - STO Weekly Reviews
-  - News
 image: /assets/images/sto-review-22-28.png
 ---
 ![](/assets/images/sto-review-22-28.png)
