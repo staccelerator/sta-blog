@@ -1,11 +1,16 @@
 ---
-title: "STO Weekly Review by Evercity 10–16.12.2018"
-date: 2018-12-17T12:01:45.062Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*Dw21y14jMcTfbOFt5x6AKQ.png
+title: STO Weekly Review by Evercity 10–16.12.2018
+description: >-
+  The People’s Bank of China (PBoC), the country’s central bank, has officially
+  banned security token offerings (STO) in a continuation of its restrictive
+  legislation governing digital currencies - and other news of the week.
+date: 2018-12-17T12:01:45.062Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*Dw21y14jMcTfbOFt5x6AKQ.png'
 ---
 
 **Main**
