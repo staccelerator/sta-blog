@@ -11,7 +11,7 @@ description: >-
   Russian Blockchain Week 2018.
 date: 2018-05-27T12:40:54.428Z
 categories:
-  - News
+  - Articles
 image: /assets/images/utility-security.png
 ---
 In the middle of May the whole crypto world had their eyes on Consensus conference in New York — evaluating, comparing, making their bets on coins that would go pumping right after the event. However, neither altcoins nor bitcoin itself saw to investors’ expectations.
