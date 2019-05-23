@@ -1,11 +1,15 @@
 ---
-title: "STO Weekly Review by Evercity 28.01–03.02.2019"
-date: 2019-02-04T09:41:46.198Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*fD7oKCfK6EZaWYU76hJbdw.png
+title: STO Weekly Review by Evercity 28.01–03.02.2019
+description: >-
+  TokenSoft launches crypto custody service for security tokens - and other news
+  of the week.
+date: 2019-02-04T09:41:46.198Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*fD7oKCfK6EZaWYU76hJbdw.png'
 ---
 
 ### **STO Weekly Review by Evercity 28.01–03.02.2019**
