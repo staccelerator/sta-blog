@@ -1,11 +1,16 @@
 ---
-title: "STO Weekly Review by Evercity 25.02–03.03.2019"
-date: 2019-03-04T11:38:13.445Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*ShsSLswgnechMZ1imcvkdA.png
+title: STO Weekly Review by Evercity 25.02–03.03.2019
+description: >-
+  Vertalo and Securrency signed joint agreement to tokenize $260M in
+  fixed-Income generating real estate sssets in 2019 offered by Inveniam Capital
+  - and other news of the week.
+date: 2019-03-04T11:38:13.445Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*ShsSLswgnechMZ1imcvkdA.png'
 ---
 
 ### **STO Weekly Review by Evercity 25.02–03.03.2019**
