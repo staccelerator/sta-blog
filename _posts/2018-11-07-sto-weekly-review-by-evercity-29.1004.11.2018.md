@@ -1,11 +1,13 @@
 ---
-title: "STO Weekly Review by Evercity 29.10–04.11.2018"
-date: 2018-11-07T10:36:19.959Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*QhX8P_CjTMBjiubVVd0w3Q.png
+title: STO Weekly Review by Evercity 29.10–04.11.2018
+description: ' The central bank of Germany, Deutsche Bundesbank, and the owner of the Frankfurt Stock Exchange, Deutsche Börse see Successful Blockchain Securities Settlement Pilot. The goal was to develop “a conceptual prototype” that would let a blockchain-based system handle the transfers and settlements of both fiat currency and securities - and other news of the week. '
+date: 2018-11-07T10:36:19.959Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*QhX8P_CjTMBjiubVVd0w3Q.png'
 ---
 
 **Main news**  
