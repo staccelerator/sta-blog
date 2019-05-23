@@ -1,11 +1,17 @@
 ---
-title: "STO Weekly Review by Evercity 21–27.01.2019"
-date: 2019-01-29T09:48:46.642Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*29pJM7FdWu1DZr6t6A4EYg.png
+title: STO Weekly Review by Evercity 21–27.01.2019
+description: >-
+  This week tZERO announced that secondary trading of tZERO tokens is now live.
+  Accredited investors can trade the security tokens hrough a digital securities
+  brokerage account at Dinosaur Financial Group, which will act as a
+  broker-dealer - and other news of the week.
+date: 2019-01-29T09:48:46.642Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*29pJM7FdWu1DZr6t6A4EYg.png'
 ---
 
 **Projects**
