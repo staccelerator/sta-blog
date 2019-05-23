@@ -1,19 +1,17 @@
 ---
-title: "STO Weekly Review by Evercity 13–19.08.2018"
-date: 2018-08-20T14:41:13.469Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
+title: STO Weekly Review by Evercity 13–19.08.2018
+description: "Main news\U0001F525The World Bank is getting ready for the issuance of the first blockchain-based bond together with major Australian conglomerate Commonwealth Bank of Australia. The bond will become the first debt instrument in the world, created and managed with the usage of blockchain technology. The new bond type was called «bond-i»."
+date: 2018-08-20T14:41:13.469Z
+categories:
+  - News
+image: /assets/images/post-news-eng.png
 ---
-
-**Main news**
-
-🔥The World Bank is getting ready for the issuance of the first blockchain-based bond together with major Australian conglomerate Commonwealth Bank of Australia. The bond will become the first debt instrument in the world, created and managed with the usage of blockchain technology. The new bond type was called «bond-i».
-
 **Projects news**
 
-🕺🏻One of the security tokenisation pioneers [Polymath](https://polymath.network/) officially launched its dApp for the issuance of security tokens. The company claims having received thousands of applications, from which it chose 5 startups for the launch: 1) [7Pass](https://www.7passtoken.com/) for the funding of cannabis industry, 2) [MintHealth](https://minthealth.io/)bringing together medicine and blockchain, 3) [BlockState](https://blockstate.com/) ecosystem of financial products of the new generation, 4) startups financing system [Corl](https://corl.io/), 5) platform for the creation of blockchain patents [iPWE](https://ipwe.com/).
+🕺🏻One of the security tokenisation pioneers [Polymath](https://polymath.network/) officially launched its dApp for the issuance of security tokens. The company claims having received thousands of applications, from which it chose 5 startups for the launch: 1) [7Pass](https://www.7passtoken.com/) for the funding of cannabis industry, 2) [MintHealth](https://minthealth.io/) bringing together medicine and blockchain, 3) [BlockState](https://blockstate.com/) ecosystem of financial products of the new generation, 4) startups financing system [Corl](https://corl.io/), 5) platform for the creation of blockchain patents [iPWE](https://ipwe.com/).
 
 **Regulations**
 
@@ -23,6 +21,6 @@ comments: true
 
 💰One of the world’s biggest crypto exchanges Huobi invested a «significant sum» into the platform for securities issuance and trading [OpenFinance](https://www.openfinance.io/).
 
-🇨🇳Chinese private equity company GSR signed a letter about its intentions to invest $270 million into security tokens trading platform [tZero](https://www.tzero.com/), a subsidiary of an online retailer giant Overstock.
+🇨🇳 Chinese private equity company GSR signed a letter about its intentions to invest $270 million into security tokens trading platform [tZero](https://www.tzero.com/), a subsidiary of an online retailer giant Overstock.
 
-Follow us in Telegram for daily updates and analysis: [https://t.me/evercity](https://t.me/evercity)
+Follow us in Telegram for daily updates and analysis: <https://t.me/evercity>
