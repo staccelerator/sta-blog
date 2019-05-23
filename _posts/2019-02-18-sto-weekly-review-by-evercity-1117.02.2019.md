@@ -1,11 +1,15 @@
 ---
-title: "STO Weekly Review by Evercity 11–17.02.2019"
-date: 2019-02-18T12:21:53.467Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*z6MCh6ZeMc61D_NUaR-Q7w.png
+title: STO Weekly Review by Evercity 11–17.02.2019
+description: >-
+  Luxembourg lawmakers have passed bill 7363 into law, facilitating the use of
+  blockchain technology in financial services - and other news of the week.
+date: 2019-02-18T12:21:53.467Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*z6MCh6ZeMc61D_NUaR-Q7w.png'
 ---
 
 ### **STO Weekly Review by Evercity 11–17.02.2019**
