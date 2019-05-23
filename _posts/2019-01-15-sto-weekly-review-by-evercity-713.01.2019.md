@@ -1,11 +1,15 @@
 ---
-title: "STO Weekly Review by Evercity 7–13.01.2019"
-date: 2019-01-15T16:13:29.607Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*6_WPk5KN6jQRROZUaFCeuA.png
+title: STO Weekly Review by Evercity 7–13.01.2019
+description: >-
+  Cadence, an investment platform for digital debt securities, has issued its
+  first tokenized fixed income security - and other news of the week.
+date: 2019-01-15T16:13:29.607Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*6_WPk5KN6jQRROZUaFCeuA.png'
 ---
 
 **Projects**
