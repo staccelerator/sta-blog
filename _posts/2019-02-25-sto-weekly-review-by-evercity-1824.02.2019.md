@@ -1,11 +1,15 @@
 ---
-title: "STO Weekly Review by Evercity 18–24.02.2019"
-date: 2019-02-25T21:02:45.298Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*PKMpqGhdsxkI3kx8KokzQg.png
+title: STO Weekly Review by Evercity 18–24.02.2019
+description: >-
+  Security Token company Templum announced that it is shifting from public to
+  private blockchains - and other news of the week.
+date: 2019-02-25T21:02:45.298Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*PKMpqGhdsxkI3kx8KokzQg.png'
 ---
 
 ### **STO Weekly Review by Evercity 18–24.02.2019**
