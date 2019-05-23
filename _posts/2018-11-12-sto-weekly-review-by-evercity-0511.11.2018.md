@@ -1,11 +1,13 @@
 ---
-title: "STO Weekly Review by Evercity 05–11.11.2018"
-date: 2018-11-12T14:02:52.377Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*f6jS6fE9JYpUhpKhBc74kQ.png
+title: STO Weekly Review by Evercity 05–11.11.2018
+description: ' Bithumb, the South Korean crypto exchange, is forming a JV with American fintech company seriesOne, a blockchain crowdfunding platform - and other news of the week. '
+date: 2018-11-12T14:02:52.377Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*f6jS6fE9JYpUhpKhBc74kQ.png'
 ---
 
 
