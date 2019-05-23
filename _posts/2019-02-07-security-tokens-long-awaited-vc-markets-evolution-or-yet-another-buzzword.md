@@ -11,7 +11,7 @@ description: >-
   change, or security tokens are just another buzzword and a leftover from ICOs?
 date: 2019-02-07T17:35:42.905Z
 categories:
-  - News
+  - Articles
 image: 'https://cdn-images-1.medium.com/max/800/1*1FnNSBGmWu6q1wGsXMZ77g.png'
 ---
 _Illustration: Deloitte.com_
