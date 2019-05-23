@@ -1,11 +1,15 @@
 ---
-title: "STO Weekly Review by Evercity 11–17.03.2019"
-date: 2019-03-18T14:18:31.355Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*9DHX-k9lLYZsqef9kF4dMQ.png
+title: STO Weekly Review by Evercity 11–17.03.2019
+description: >-
+  Deutsche Börse, Swisscom and Sygnum entered into strategic partnershipto build
+  a trusted digital asset ecosystem - and other news of the week.
+date: 2019-03-18T14:18:31.355Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*9DHX-k9lLYZsqef9kF4dMQ.png'
 ---
 
 ### **STO Weekly Review by Evercity 11–17.03.2019**
