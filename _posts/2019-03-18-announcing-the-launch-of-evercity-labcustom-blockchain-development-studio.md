@@ -1,11 +1,13 @@
 ---
-title: "Announcing the launch of Evercity Lab — custom blockchain development studio"
-date: 2019-03-18T10:17:10.434Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*GhziwTeS7FBvHXV5ojBTwA.png
+title: Announcing the launch of Evercity Lab — custom blockchain development studio
+description: ' Global industry leaders have already started the transfer to blockchain infrastructure in order to increase efficiency and widen outreach by providing new products to their customers. Evercity Lab is designed to provide a variety of custom blockchain development services and white label platform solution to assist businesses in blockchain adoption, minimizing their costs and time to market, as well as raising transparency.'
+date: 2019-03-18T10:17:10.434Z
+categories:
+  - News
+image: 'https://cdn-images-1.medium.com/max/800/1*GhziwTeS7FBvHXV5ojBTwA.png'
 ---
 
 **Global industry leaders have already started the transfer to blockchain infrastructure in order to increase efficiency and widen outreach by providing new products to their customers. Evercity Lab is designed to provide a variety of custom blockchain development services and white label platform solution to assist businesses in blockchain adoption, minimizing their costs and time to market, as well as raising transparency.**
