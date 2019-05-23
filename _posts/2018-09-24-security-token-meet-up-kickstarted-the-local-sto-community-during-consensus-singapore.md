@@ -13,6 +13,8 @@ description: >-
   the growing $10 trillion industry. The event was organized by Evercity venture
   ecosystem.
 date: 2018-09-24T21:33:36.099Z
+categories:
+  - News
 image: 'https://cdn-images-1.medium.com/max/800/1*pWZOg1G9culMD6MCDNbQBg.jpeg'
 ---
 
