@@ -16,6 +16,8 @@ image: 'https://cdn-images-1.medium.com/max/800/1*1FnNSBGmWu6q1wGsXMZ77g.png'
 ---
 _Illustration: Deloitte.com_
 
+Recent years have shown a major decline in VCs willing to invest in early stage ventures, leaving multiple startups with bleak chances to get funded and make their impact. Why has venture capital become incapable of fulfilling its initial purpose of driving innovation? Is tokenization truly able to make a change, or security tokens are just another buzzword and a leftover from ICOs?
+
 ### **VCs less willing to fund early stage startups**
 
 According to [Venture Pulse research](https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/01/kpmg-venture-pulse-q4-2018.pdf) by KPMG, international VC scene has seen a sharp decline in early stage deals over the past few years.
