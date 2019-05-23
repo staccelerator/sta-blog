@@ -11,7 +11,7 @@ description: >-
   enthusiasm about it happening in the near future”, — Dave Hendricks (Vertalo)
 date: 2018-10-18T08:51:01.943Z
 categories:
-  - articles
+  - Articles
 image: 'https://cdn-images-1.medium.com/max/1200/0*8TIeeT_ZL4h44gMK'
 ---
 _Special thanks to Jor Law (VerifyInvestor.com), Rika Khurdayan (Dilendorf &amp; Khurdayan), Ivan Podmasko (Scrypta) for helping prepare this article_
