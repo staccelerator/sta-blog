@@ -1,11 +1,17 @@
 ---
-title: "STO vs VC: liquidity & control"
-date: 2018-09-25T10:40:32.474Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/0*n8pLbmYJYRviZOmA.jpg
+title: 'STO vs VC: liquidity & control'
+description: >
+  In the second part we took a look at how STO offers a more efficient
+  alternative to ICOs — one of the newest (and most notorious) fundraising
+  methods. But security tokenization also steps in to disrupt fundraising giant
+  from the previous century: traditional venture capital system.
+date: 2018-09-25T10:40:32.474Z
+categories:
+  - Articles
+image: 'https://cdn-images-1.medium.com/max/800/0*n8pLbmYJYRviZOmA.jpg'
 ---
 
 ### STO vs VC: liquidity &amp; control
