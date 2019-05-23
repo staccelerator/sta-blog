@@ -1,11 +1,17 @@
 ---
-title: "STO Weekly Review by Evercity 8–14.10.2018"
-date: 2018-10-15T13:40:23.760Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*D-kdYgcRTToBthdc3dAn5g.png
+title: STO Weekly Review by Evercity 8–14.10.2018
+description: >-
+  Elevated Returns (invest-management firm with a focus on real estate has
+  closed a $18 million deal for Aspen Digital — offering of tokens that provide
+  investors with a small ownership stake in St. Regis Aspen Resort - and other
+  news of the week. 
+date: 2018-10-15T13:40:23.760Z
+categories:
+  - STO Weekly Reviews
+image: 'https://cdn-images-1.medium.com/max/800/1*D-kdYgcRTToBthdc3dAn5g.png'
 ---
 
 ### [STO Weekly Review by Evercity 8–14.10.2018](https://steemit.com/sto/@evercity/sto-weekly-review-by-evercity-8-14-10-2018)
