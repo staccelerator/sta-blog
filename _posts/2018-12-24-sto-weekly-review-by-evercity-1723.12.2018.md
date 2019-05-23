@@ -1,17 +1,20 @@
 ---
-title: "STO Weekly Review by Evercity 17–23.12.2018"
-date: 2018-12-24T08:38:50.035Z
-author: evercity
 layout: post
-published: true
+author: evercity
 comments: true
-image: https://cdn-images-1.medium.com/max/800/1*Ydecaeuq702BCxyD6p82DA.png
+title: STO Weekly Review by Evercity 17–23.12.2018
+description: >-
+  Two Congressman for the United States have introduced a bill to exclude
+  digital assets from being classified as securities - and other news of the
+  week.
+date: 2018-12-24T08:38:50.035Z
+categories:
+  - STO Weekly Review
+image: 'https://cdn-images-1.medium.com/max/800/1*Ydecaeuq702BCxyD6p82DA.png'
 ---
-
-
 **Main**
 
-✨Two Congressman for the United States have [introduced a bill] (https://www.crowdfundinsider.com/2018/12/142631-legislation-designed-to-fix-icos-in-the-us-the-token-taxonomy-act-is-introduced-in-congress/)to exclude digital assets from being classified as securities. The bipartisan legislation (Soto is a Democrat &amp; Davidson a Republican) seeks to draw a “bright line for businesses and regulators” by defining a “digital token” and clarifies that securities laws do not apply to companies that use blockchain once they reach their goal of becoming a functional network. The “Simple Agreement for Future Tokens” or SAFTs has been used as a security vehicle that morphs into a non-security once the token and platform are operational.
+✨Two Congressman for the United States have [introduced a bill](https://www.crowdfundinsider.com/2018/12/142631-legislation-designed-to-fix-icos-in-the-us-the-token-taxonomy-act-is-introduced-in-congress/) to exclude digital assets from being classified as securities. The bipartisan legislation (Soto is a Democrat &amp; Davidson a Republican) seeks to draw a “bright line for businesses and regulators” by defining a “digital token” and clarifies that securities laws do not apply to companies that use blockchain once they reach their goal of becoming a functional network. The “Simple Agreement for Future Tokens” or SAFTs has been used as a security vehicle that morphs into a non-security once the token and platform are operational.
 
 **Projects**
 
@@ -23,4 +26,4 @@ image: https://cdn-images-1.medium.com/max/800/1*Ydecaeuq702BCxyD6p82DA.png
 
 🏠TokenSoft, a security token offering platform, has [partnered with Coinbase](https://www.coindesk.com/tokensoft-to-offer-coinbase-custody-as-sto-client-option) to provide an alternative custody solution for clients. The firm announced Thursday that STO issuers can now choose between self-custody through its platform or third-party solutions, including Coinbase Custody.
 
-Join Security Token Club: [https://t.me/stoaccelerator](https://t.me/stoaccelerator)
+Join Security Token Club: <https://t.me/stoaccelerator>
