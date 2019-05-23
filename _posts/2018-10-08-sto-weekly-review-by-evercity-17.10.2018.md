@@ -8,8 +8,10 @@ description: >-
   CAT-271) standards, that are interoperable ledger-agnostic security token
   protocols. Tokens can be issued and transferred across any blockchain,
   including Ethereum, Stellar, Ripple, GoChain and EoS, enabling «true
-  liquidity».
+  liquidity» - and other news of the week.  
 date: 2018-10-08T12:33:17.892Z
+categories:
+  - STO Weekly Reviews
 image: 'https://cdn-images-1.medium.com/max/800/1*fi8hh6OaxK4o4TbYGy4qJg.png'
 ---
 
