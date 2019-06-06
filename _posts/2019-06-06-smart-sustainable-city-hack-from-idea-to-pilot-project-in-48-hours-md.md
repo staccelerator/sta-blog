@@ -26,6 +26,8 @@ Winners of each track received 100,000 rubles and opportunity to develop project
 
 The Russian Ministry of Construction noted that the most valuable effect of hackathons is the collaboration between developers of tech solutions and public authorities from the regions and municipalities of the Russian  Federation: “One of the goals of Smart City project is to create comfortable conditions for life and work in Russian cities. Each region of the country has strong specialists, young entrepreneurs and developers, who are ready to react to the needs of the regions. It is very important to establish this collaboration”, - the Ministry commented. 
 
+![](/assets/images/nko02388.jpg)
+
 **Blockchain for integration and automation of data collection in urban systems** 
 
 Competitors in the joint track of Russian Ministry of Construction, VEB.RF and Evercity solved the problem of Integration of data flows from IoT devices and various GIS systems for monitoring and decision making in smart city. AlphaOpen company gave technical support for the teams providing data from its platform for smart buildings. The winner of the track, team KORUM, presented a solution for automating data collection from heat and electricity meters with application of IoT devices and data processing in distributed ledgers Substrate and IPFS. 
@@ -33,6 +35,8 @@ Competitors in the joint track of Russian Ministry of Construction, VEB.RF and E
 Elena Stepanova, senior managing director in “VEB.Infrastructure” commented on the choice: 
 
 > _“From the point of view of infrastructure, team KORUM presented the most complete solution for integration, management and analysis of data from multiple urban systems. However, modern smart city is not just a municipality with well-developed technical infrastructure. It is a place where a human life gets a new quality because of smart decisions. This is why I also want to point out the solutions of teams Absolute and Mar(s)ginali that are aimed at attaining Sustainable Development Goals"_
+
+![](/assets/images/nko02209.jpg)
 
 **Implementation of green certificates system for renewable energy** 
 
@@ -50,6 +54,8 @@ Anatoly Trukhin, director of center for markets analysis at Fortum PJSC noted th
 
 >  “We were astonished that many teams presented real solutions of a very high level, that could already be implemented today”. 
 
+![](/assets/images/nko02234.jpg)
+
 **AI for transportation and air quality**
 
 EDF, world leader in the production of low carbon electricity, has assigned the participants the task to optimize transport infrastructure in the city taking into account ecological data. 
@@ -61,6 +67,8 @@ Gonzague Flutsch, manager of Smart City project at EDF underlined the importance
 > _“We aim to fulfil our obligations under Paris agreement to reduce GHG emissions and overall level of pollution in the cities. Transportation is one of the major sources of pollution in the cities, that’s why optimization of traffic will have significant positive impact on air quality”._
 >
 >  
+
+![](/assets/images/nko02228.jpg)
 
 **Smart Sustainable City Hack - springboard for innovative projects** 
 
