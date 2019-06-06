@@ -24,7 +24,11 @@ In 48 hours participants developed innovative solutions for verification of gree
 
 Winners of each track received 100,000 rubles and opportunity to develop projects in the accelerator of Evercity, the organizer of the hackathon. Denis Unzhakov, vice-president of VEB.RF, invited the winners to take part in a business breakfast and a pitch session at VEB.RF.
 
-The Russian Ministry of Construction noted that the most valuable effect of hackathons is the collaboration between developers of tech solutions and public authorities from the regions and municipalities of the Russian  Federation: “One of the goals of Smart City project is to create comfortable conditions for life and work in Russian cities. Each region of the country has strong specialists, young entrepreneurs and developers, who are ready to react to the needs of the regions. It is very important to establish this collaboration”, - the Ministry commented. 
+The Russian Ministry of Construction noted that the most valuable effect of hackathons is the collaboration between developers of tech solutions and public authorities from the regions and municipalities of the Russian  Federation: 
+
+> _“One of the goals of Smart City project is to create comfortable conditions for life and work in Russian cities. Each region of the country has strong specialists, young entrepreneurs and developers, who are ready to react to the needs of the regions. It is very important to establish this collaboration”_
+>
+> , - the Ministry commented. 
 
 ![](/assets/images/nko02388.jpg)
 
@@ -44,15 +48,13 @@ In “smart energy” track from Fortum, the leading Russian company in the fiel
 
 Oleg Barkin, deputy chairman of the board of NP “Market Council” spoke about the importance and prospects of this task in Russia: 
 
-> _“Green certificates mechanism is already being actively used around the world, the circulation of these documents is constantly growing. However, there are not so many complete solutions on blockchain yet”_
->
-> . 
+> _“Green certificates mechanism is already being actively used around the world, the circulation of these documents is constantly growing. However, there are not so many complete solutions on blockchain yet”_. 
 
 The solution of “Mar(s)ginali” team was acknowledged to be the most comprehensive for green certificates issuance. Its main feature was two-level verification of green energy generation, which made falsification unprofitable for the generator. The participants chose Ethereum blockchain for underlying infrastructure, as it allows to trade certificates at minimal cost. 
 
 Anatoly Trukhin, director of center for markets analysis at Fortum PJSC noted that the choice was hard:
 
->  “We were astonished that many teams presented real solutions of a very high level, that could already be implemented today”. 
+> “We were astonished that many teams presented real solutions of a very high level, that could already be implemented today”. 
 
 ![](/assets/images/nko02234.jpg)
 
@@ -65,8 +67,6 @@ Aerostate, tech partner of the track, has provided the participants with API of 
 Gonzague Flutsch, manager of Smart City project at EDF underlined the importance of the task: 
 
 > _“We aim to fulfil our obligations under Paris agreement to reduce GHG emissions and overall level of pollution in the cities. Transportation is one of the major sources of pollution in the cities, that’s why optimization of traffic will have significant positive impact on air quality”._
->
->  
 
 ![](/assets/images/nko02228.jpg)
 
@@ -76,13 +76,7 @@ During online and offline stage of the hackathon partners and mentors gave a ser
 
 Technical and educational partners - namely, Sergey Lonshakov, leader of Airalab, and Yury Yartsev, the founder of RUSSOL startup school - also announced their favorite teams and awarded them with special prizes. 
 
-> _“Developing smart sustainable cities is not only about searching for cool promising technologies”_
->
-> , Sergey Lonshakov noted while presenting special editions of books to the participants. 
->
-> _“Don’t forget to read such books as “Brave New World” by Aldous Huxley, “Do Androids Dream of Electric Sheep?” by Philip Dick and other sci-fi books. Because you are creating worlds, you are building the future.”_
->
->  
+> _“Developing smart sustainable cities is not only about searching for cool promising technologies”_, Sergey Lonshakov noted while presenting special editions of books to the participants. _“Don’t forget to read such books as “Brave New World” by Aldous Huxley, “Do Androids Dream of Electric Sheep?” by Philip Dick and other sci-fi books. Because you are creating worlds, you are building the future.”_
 
 Evercity ecosystem pays a lot of attention to compliance with sustainable development standards. That’s why “smart bin” that compresses rubbish using solar energy was installed at the venue. Moreover, paper waste was minimized - only speakers and partners received badges, and the program was only available online. The menu included a choice of vegetarian meals and healthy food. 
 
