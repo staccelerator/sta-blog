@@ -88,6 +88,8 @@ Evercity ecosystem pays a lot of attention to compliance with sustainable develo
 
 Hackathon organizer Evercity is ready to continue communication with the participants, to assist the teams in completing their solutions, as well as to implement them in the regions of Russia. Also, there is a plan for piloting projects and educating local developers in every region.
 
+![](/assets/images/nko02133.jpg)
+
 Alexey Shadrin, CEO of Evercity: 
 
 > _“We select the cutting-edge technological solutions that fit the requirements of the project for urban digitalization “Smart City” and the program “Digital economy of Russian Federation”. Each region has its own talents that understand its local specifics better. Our task is to help them realize their full potential, create and revive the innovative ecosystem in the regions. Our country has very talented young people, highly valued abroad - they are the future of Russia”._
