@@ -5,8 +5,8 @@ comments: true
 title: 'STO Weekly Review  3-9th June 2019  '
 description: >-
   Cadence is now listed on Bloomberg Terminal, TradeCloud have announced the
-  launch of the private round of their Swiss based $20 million Security Token
-  Offering - and other news of the week. 
+  launch of the private round of their Security Token Offering - and other news
+  of the week. 
 date: 2019-06-10T13:36:46.621Z
 image: /assets/images/sto-review-3-9june.png
 ---
